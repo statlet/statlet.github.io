@@ -2,8 +2,8 @@
   "name": "Statistical Learning Theory Lab",
   "short_name": "Statistical Learning Theory Lab",
   "lang": "en-us",
-  "theme_color": "rgb(251, 191, 183)",
-  "background_color": "rgb(251, 191, 183)",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
