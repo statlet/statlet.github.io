@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All News | Statistical Learning Theory Lab</title>
-    <link>https://snustat.github.io/news/</link>
-      <atom:link href="https://snustat.github.io/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>All News</description>
+    <title>Latest News | Statistical Learning Theory Lab</title>
+    <link>https://snustat.github.io/post/</link>
+      <atom:link href="https://snustat.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snustat.github.io/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_512x512_fill_lanczos_center_2.png</url>
-      <title>All News</title>
-      <link>https://snustat.github.io/news/</link>
+      <title>Latest News</title>
+      <link>https://snustat.github.io/post/</link>
     </image>
     
     <item>
       <title>랩세미나 재개</title>
-      <link>https://snustat.github.io/news/labseminar/</link>
+      <link>https://snustat.github.io/post/labseminar/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://snustat.github.io/news/labseminar/</guid>
+      <guid>https://snustat.github.io/post/labseminar/</guid>
       <description>&lt;p&gt;코로나 19의 영향으로 작년 여름에 중단되었던 랩세미나를 재개하였습니다.&lt;/p&gt;
 &lt;p&gt;랩세미나의 주제는 Inference on multi-source data integration 이며, 세부적으로는 multi-source data, covariance estimation and PCA, factor models, post selection inference, sub-L1 selection 에 대해 다룰 예정입니다. 코로나 19 확산을 방지하기 위하여 zoom을 통해 진행되고 있으며, 세미나 내용은 ‘Seminar’ 메뉴에서 확인하실 수 있습니다.&lt;/p&gt;</description>
     </item>
