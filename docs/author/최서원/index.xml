@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>최서원 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EC%B5%9C%EC%84%9C%EC%9B%90/</link>
+      <atom:link href="https://statlet.github.io/author/%EC%B5%9C%EC%84%9C%EC%9B%90/index.xml" rel="self" type="application/rss+xml" />
+    <description>최서원</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/author/%EC%B5%9C%EC%84%9C%EC%9B%90/avatar_hud3caaa19cee14538e3320d86dfb7a855_1633993_270x270_fill_lanczos_center_2.png</url>
+      <title>최서원</title>
+      <link>https://statlet.github.io/author/%EC%B5%9C%EC%84%9C%EC%9B%90/</link>
+    </image>
+    
+  </channel>
+</rss>

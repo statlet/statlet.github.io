@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/</link>
+      <atom:link href="https://statlet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Learning Theory Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://statlet.github.io/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistical Learning Theory Lab</title>
+      <link>https://statlet.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://statlet.github.io/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>새로운 연구실 구성원</title>
+      <link>https://statlet.github.io/news/intromember/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/news/intromember/</guid>
+      <description>&lt;p&gt;작년 8월에 3명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
+&lt;p&gt;김용재, 손주희, 홍승기 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요. 앞으로 잘 부탁드립니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>새로운 연구실 구성원</title>
+      <link>https://statlet.github.io/post/intromember/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/intromember/</guid>
+      <description>&lt;p&gt;작년 8월에 3명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
+&lt;p&gt;김용재, 손주희, 홍승기 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요. 앞으로 잘 부탁드립니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>연구실 홈페이지 오픈</title>
+      <link>https://statlet.github.io/news/labopen/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/news/labopen/</guid>
+      <description>&lt;p&gt;통계적 학습이론 연구실 홈페이지를 오픈했습니다.&lt;/p&gt;
+&lt;p&gt;홈페이지에서 연구실 구성원과 연구 실적, 세미나 내용, 새로운 소식 등을 확인하실 수 있습니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>연구실 홈페이지 오픈</title>
+      <link>https://statlet.github.io/post/labopen/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/labopen/</guid>
+      <description>&lt;p&gt;통계적 학습이론 연구실 홈페이지를 오픈했습니다.&lt;/p&gt;
+&lt;p&gt;홈페이지에서 연구실 구성원과 연구 실적, 세미나 내용, 새로운 소식 등을 확인하실 수 있습니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>랩세미나 재개</title>
+      <link>https://statlet.github.io/news/labseminar/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/news/labseminar/</guid>
+      <description>&lt;p&gt;코로나 19의 영향으로 작년 여름에 중단되었던 랩세미나를 재개하였습니다.&lt;/p&gt;
+&lt;p&gt;랩세미나의 주제는 Inference on multi-source data integration 이며, 세부적으로는 multi-source data, covariance estimation and PCA, factor models, post selection inference, sub-L1 selection 에 대해 다룰 예정입니다. 코로나 19 확산을 방지하기 위하여 zoom을 통해 진행되고 있으며, 세미나 내용은 ‘Seminar’ 메뉴에서 확인하실 수 있습니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>랩세미나 재개</title>
+      <link>https://statlet.github.io/post/labseminar/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/labseminar/</guid>
+      <description>&lt;p&gt;코로나 19의 영향으로 작년 여름에 중단되었던 랩세미나를 재개하였습니다.&lt;/p&gt;
+&lt;p&gt;랩세미나의 주제는 Inference on multi-source data integration 이며, 세부적으로는 multi-source data, covariance estimation and PCA, factor models, post selection inference, sub-L1 selection 에 대해 다룰 예정입니다. 코로나 19 확산을 방지하기 위하여 zoom을 통해 진행되고 있으며, 세미나 내용은 ‘Seminar’ 메뉴에서 확인하실 수 있습니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://statlet.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://statlet.github.io/member/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/member/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://statlet.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

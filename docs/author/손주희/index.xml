@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>손주희 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EC%86%90%EC%A3%BC%ED%9D%AC/</link>
+      <atom:link href="https://statlet.github.io/author/%EC%86%90%EC%A3%BC%ED%9D%AC/index.xml" rel="self" type="application/rss+xml" />
+    <description>손주희</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/author/%EC%86%90%EC%A3%BC%ED%9D%AC/avatar.png_hufdbfe5dc16ef9d9abdd5048689b6e984_183274_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>손주희</title>
+      <link>https://statlet.github.io/author/%EC%86%90%EC%A3%BC%ED%9D%AC/</link>
+    </image>
+    
+  </channel>
+</rss>

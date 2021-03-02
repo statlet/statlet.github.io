@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>김재민 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EA%B9%80%EC%9E%AC%EB%AF%BC/</link>
+      <atom:link href="https://statlet.github.io/author/%EA%B9%80%EC%9E%AC%EB%AF%BC/index.xml" rel="self" type="application/rss+xml" />
+    <description>김재민</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_512x512_fill_lanczos_center_2.png</url>
+      <title>김재민</title>
+      <link>https://statlet.github.io/author/%EA%B9%80%EC%9E%AC%EB%AF%BC/</link>
+    </image>
+    
+  </channel>
+</rss>
