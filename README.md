@@ -1,4 +1,4 @@
-# snustat
+# statlet
 SNU Statistical Learning Theory Lab webpage
 
-Go to https://snustat.github.io/.
+Go to https://statlet.github.io/
