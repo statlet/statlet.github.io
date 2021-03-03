@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:C:\Users\minwoo\Dropbox\SLT-labsite\starter-research-group\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\assets\js\wowchemy-theming.js
+  // ns-hugo:C:\Users\minwoo\Dropbox\SLT-labsite\statlet.github.io\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\assets\js\wowchemy-theming.js
   var body = document.body;
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
