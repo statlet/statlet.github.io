@@ -12,6 +12,7 @@ view: 4
 ### Published work
 
 1. Byungwon Kim, Seonghong Kim, Woncheol Jang, Sungkyu Jung, Johan Lim (2021). “Estimation of the case fatality rate based on stratification for the COVID-19 outbreak,” Accepted for publication in PLOS One.
+
 2. Sungkyu Jung (2021). “Geodesic projection of the von Mises-Fisher distribution for projection pursuit of directional data”, Accepted for publication in *Electronic Journal of Statistics*.
 3. Zhao Ren, Sungkyu Jung and Xingye Qiao (2020). “Covariance-engaged Classification of Sets via Linear Programming”, Accepted for publication in Statistica Sinica. 
 4. Sungkyu Jung (2020). “Adjusting systematic bias in high dimensional principal component scores”, Accepted for publication in Statistica Sinica.
