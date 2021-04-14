@@ -66,33 +66,27 @@ view: 2
 
 17. Sparsistency and rates of convergence in large covariance matrix estimation
     - 발표자 : 손주희 [발표자료](https://www.dropbox.com/s/j805f6hyvd6t033/210126_seminar_Sparsistency%20and%20rates%20of%20convergence%20in%20large%20covariance%20matrix%20estimation.pdf?dl=0)
-
 18. Large covariance estimation by thresholding principal orthogonal complements
     - 발표자 : 김민우 [발표자료](https://www.dropbox.com/s/6daqkiaimxkm0bs/2021-02-02-Fan%20et%20al-2013-JRSSB.pdf?dl=0)
-
 19. Asymptotics of empirical eigen-structure for ultra-high dimensional spiked covariance model
     - 발표자 : 김용재 [발표자료](https://www.dropbox.com/s/vbpgdu0bhicb6a5/210201_Asymptotics_of_Empirical_Eigen_structure_for_Ultra_high_Dimensional_Spiked_Covariance_Model.pdf?dl=0)
-
 20. Adaptive thresholding for sparse covariance matrix estimation
     - 발표자 : 이수진 [발표자료](https://www.dropbox.com/s/etkhvv7lny9qsxh/20210209_Adaptive%20thresholding.pdf?dl=0)
-
 21. Sparse PCA: Optimal rates and adaptive estimation
     - 발표자 : 최서원 [발표자료](https://www.dropbox.com/s/f6tcs2hxmq3bimb/210209_Sparse_PCA_Tony_Cai.pdf?dl=0)
-    
 22. Sparse principal component analysis and iterative thresholding
     - 발표자 : 장우녕 [발표자료](https://www.dropbox.com/s/g6nx39rcledpjzm/20210216%20Sparse_Principal_Component_Analysis_and_Iterative_Thresholding.pdf?dl=0)
-
 23. Minimax rates of estimation for sparse PCA in high dimensions
     - 발표자 : 조동혁 [발표자료](https://www.dropbox.com/s/xmu6kl11fgkor4u/210216_seminar.pdf?dl=0)
-
 24. Minimax bounds for sparse PCA with noisy high-dimensional data
     - 발표자 : 홍승기 [발표자료](https://www.dropbox.com/s/k4bnk6olzvvkncm/210223_seminar.pdf?dl=0)
-
 25. Factor models and variable selection in high-dimensional regression analysis
     - 발표자 : 박재성 [발표자료](https://www.dropbox.com/s/0t65wfiwujhz7h2/2021-02-23%20Factor%20models%20and%20variable%20selection%20in%20high-dimensional%20regression%20analysis.pdf?dl=0)
-    
 26. Statistical analysis of factor models of high-dimension
     - 발표자 : 한상일 [발표자료](https://www.dropbox.com/s/dko4meq59jbvvk8/2021_03_12_SLT_lapseminar.pdf?dl=0)  
-
 27. Factor-adjusted regularized model selection
     - 발표자 : 손주희 [발표자료](https://www.dropbox.com/s/p8qkwf8e4ed7rs7/210319_Factor-Adjusted%20Regularized%20Model%20Selection.pdf?dl=0)
+28. Imputed factor regression for high-dimensional block-wise missing data
+    - 발표자 : 김민우  [발표자료](https://www.dropbox.com/s/ojgugvfu08zaxj3/2021-04-02-Imputed-factor-regression.pdf?dl=0)
+29. Confidence intervals and Hypothesis Testing for High-Dimensional Regression
+    - 발표자 : 김용재  [발표자료](https://www.dropbox.com/s/tbe7zhc1qhipghd/2021-04-09%20Confidence_Intervals_and_Hypothesis_Testing_for_High_Dimensional_Regression.pdf?dl=0)
