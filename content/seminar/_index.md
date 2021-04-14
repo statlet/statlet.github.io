@@ -80,6 +80,9 @@ view: 2
     - 발표자 : 조동혁 [발표자료](https://www.dropbox.com/s/xmu6kl11fgkor4u/210216_seminar.pdf?dl=0)
 24. Minimax bounds for sparse PCA with noisy high-dimensional data
     - 발표자 : 홍승기 [발표자료](https://www.dropbox.com/s/k4bnk6olzvvkncm/210223_seminar.pdf?dl=0)
+
+#### Factor models
+
 25. Factor models and variable selection in high-dimensional regression analysis
     - 발표자 : 박재성 [발표자료](https://www.dropbox.com/s/0t65wfiwujhz7h2/2021-02-23%20Factor%20models%20and%20variable%20selection%20in%20high-dimensional%20regression%20analysis.pdf?dl=0)
 26. Statistical analysis of factor models of high-dimension
@@ -88,5 +91,8 @@ view: 2
     - 발표자 : 손주희 [발표자료](https://www.dropbox.com/s/p8qkwf8e4ed7rs7/210319_Factor-Adjusted%20Regularized%20Model%20Selection.pdf?dl=0)
 28. Imputed factor regression for high-dimensional block-wise missing data
     - 발표자 : 김민우  [발표자료](https://www.dropbox.com/s/ojgugvfu08zaxj3/2021-04-02-Imputed-factor-regression.pdf?dl=0)
+    
+#### Post selection inference
+
 29. Confidence intervals and Hypothesis Testing for High-Dimensional Regression
     - 발표자 : 김용재  [발표자료](https://www.dropbox.com/s/tbe7zhc1qhipghd/2021-04-09%20Confidence_Intervals_and_Hypothesis_Testing_for_High_Dimensional_Regression.pdf?dl=0)
