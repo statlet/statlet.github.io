@@ -6,15 +6,15 @@ title: Publications
 view: 4
 ---
 
-> Last updated: February 25, 2021
+> Last updated: April 25, 2021
 
 ---
 ### Published work
 
-1. Sungkyu Jung, Kiho Park and Byungwon Kim (2021). “Clustering on the torus by conformal prediction”, Accepted for publication in *Annals of Applied Statistics*
-2. Byungwon Kim, Seonghong Kim, Woncheol Jang, Sungkyu Jung, Johan Lim (2021). “Estimation of the case fatality rate based on stratification for the COVID-19 outbreak,” *PLoS One*. 16(2): e0246921. 
-3. Sungkyu Jung (2021). “Geodesic projection of the von Mises-Fisher distribution for projection pursuit of directional data”, *Electronic Journal of Statistics* 15(1): 984-1033. 
-4. Zhao Ren, Sungkyu Jung and Xingye Qiao (2021). “Covariance-engaged Classification of Sets via Linear Programming”, to appear in *Statistica Sinica* 32(4)
+1. Zhao Ren, Sungkyu Jung and Xingye Qiao (2022). “Covariance-engaged Classification of Sets via Linear Programming”, to appear in *Statistica Sinica* 32(4)
+2. Sungkyu Jung, Kiho Park and Byungwon Kim (2021). “Clustering on the torus by conformal prediction”, Accepted for publication in *Annals of Applied Statistics*
+3. Byungwon Kim, Seonghong Kim, Woncheol Jang, Sungkyu Jung, Johan Lim (2021). “Estimation of the case fatality rate based on stratification for the COVID-19 outbreak,” *PLoS One*. 16(2): e0246921. 
+4. Sungkyu Jung (2021). “Geodesic projection of the von Mises-Fisher distribution for projection pursuit of directional data”, *Electronic Journal of Statistics* 15(1): 984-1033. 
 5. Sungkyu Jung (2022). “Adjusting systematic bias in high dimensional principal component scores”, to appear in *Statistica Sinica* 32(3).
 6. Xing Gao, Sungwon Lee, Gen Li and Sungkyu Jung (2020). “Covariate-driven factorization by thresholding for multi-block data”, Biometrics, in print.
 7. Sungkyu Jung, Mark Foskey, and J. S. Marron (2020). “Response to `Fitting a folded normal distribution without EM’”, Annals of Applied Statistics, Vol. 14, No. 4, 2099-2100.
