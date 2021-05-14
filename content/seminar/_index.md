@@ -100,4 +100,9 @@ view: 2
     - 발표자 : 이수진  [발표자료](https://www.dropbox.com/s/h3ypg7k7adb4c4t/20210416_general%20theory%20of%20hypothesis%20tests%20and%20confidence%20regions%20for%20sparse%20high%20dimensional%20models.pdf?dl=0)
 31. Linear hypothesis testing for high dimensional GLM
     - 발표자 : 최서원 [발표자료](https://www.dropbox.com/s/po45wht4hlgv7e0/210423_Linear_hypothesis_testing_for_high_dimensional_GLM.pdf?dl=0)
-
+32. On asymptotically optimal confidence regions and tests for high-dimensional models
+    - 발표자 : 장우녕 [발표자료](https://www.dropbox.com/s/x4hjflxetzdzyfo/2021-04-30%20On_asymptotically_optimal_confidence_regions_and_tests_for_high_dimensional_models.pdf.pdf?dl=0)
+33. Confidence intervals for low dimensional parameters in high dimensional linear models
+    - 발표자 : 조동혁 [발표자료](https://www.dropbox.com/s/2vncsmlr5fjmr4f/210507_seminar.pdf?dl=0)
+34. Exact Post-Selection Inference for Sequential Regression Procedures
+    - 발표자 : 홍승기 [발표자료](https://www.dropbox.com/s/mnatkmwy57yhg21/210514_seminar.pdf?dl=0)
