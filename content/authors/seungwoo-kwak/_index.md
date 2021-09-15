@@ -16,13 +16,13 @@ education:
 
 email: ""
 highlight_name: false
-# interests:
-# - High-dimensional multivariate statistics
-# - Matrix perturbation theory
+#interests:
+#- High-dimensional multivariate statistics
+#- Matrix perturbation theory
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: M.S 2021
+role: Postdoctoral Researcher
 
 social:
 - icon: envelope
@@ -40,14 +40,12 @@ social:
   
 superuser: false
 
-title: 장우녕
+title: 곽승우
 
-weight: 10
+weight: 20
 
 user_groups:
-- Alumni
+- Postdoctoral Researchers
 ---
 
-<br></br>
-
-Current position: Ph.D. student in Statistics at Carnegie Mellon University
+차등적 정보보호(Differential Privacy)를 통한 자료 배포(data release)와 통계적 자료 분석 방법에 대한 연구를 하고 있습니다.

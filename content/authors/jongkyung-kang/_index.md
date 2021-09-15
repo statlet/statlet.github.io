@@ -16,13 +16,13 @@ education:
 
 email: ""
 highlight_name: false
-# interests:
-# - High-dimensional multivariate statistics
-# - Matrix perturbation theory
+#interests:
+#- High-dimensional multivariate statistics
+#- Matrix perturbation theory
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: M.S 2021
+role: Postdoctoral Researcher
 
 social:
 - icon: envelope
@@ -40,14 +40,16 @@ social:
   
 superuser: false
 
-title: 장우녕
+title: 강종경
 
-weight: 10
+weight: 20
 
 user_groups:
-- Alumni
+- Postdoctoral Researchers
 ---
 
-<br></br>
+저는 고려대학교에서 "Gradient learning for high-dimensional binary classification in reproducing kernel Hilbert space" 라는 주제의 논문으로 통계학 박사학위를 취득하였습니다.
 
-Current position: Ph.D. student in Statistics at Carnegie Mellon University
+그동안 분위수 회귀, 커널 릿지 회귀, 서포트 벡터 머신 등 다양한 상황에서의 변수 선택 및 충분차원 축소 기법에 관하여 연구해왔으며,
+
+현재는 자료의 출처가 다양한 경우에서의 효과적인 요인 추출 기법에 관해 관심을 갖고 연구하고 있습니다. 
