@@ -108,6 +108,8 @@ view: 2
     - 발표자 : 홍승기 [발표자료](https://www.dropbox.com/s/mnatkmwy57yhg21/210514_seminar.pdf?dl=0)
 35. Exact Post-Selection Inference, with Application to the Lasso
     - 발표자 : 박재성  [발표자료](https://www.dropbox.com/s/1kzs4c3b9dhki8i/20210618_Exact_Post_Selection_Inference__with_Application_to_the_Lasso.pdf?dl=0)
+36. Gradient Learning for High-dimensional Binary Classification in Reproducing Kernel Hilbert Space
+    - 발표자 : 강종경 [발표자료](https://www.dropbox.com/s/bs7hqh6irpsi7dy/210915_Gradient_Learning_for_classification_in_RKHS.pdf?dl=0)
 
 
 
