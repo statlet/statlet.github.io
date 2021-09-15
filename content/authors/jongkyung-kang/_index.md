@@ -48,8 +48,4 @@ user_groups:
 - Postdoctoral Researchers
 ---
 
-저는 고려대학교에서 "Gradient learning for high-dimensional binary classification in reproducing kernel Hilbert space" 라는 주제의 논문으로 통계학 박사학위를 취득하였습니다.
-
-그동안 분위수 회귀, 커널 릿지 회귀, 서포트 벡터 머신 등 다양한 상황에서의 변수 선택 및 충분차원 축소 기법에 관하여 연구해왔으며,
-
-현재는 자료의 출처가 다양한 경우에서의 효과적인 요인 추출 기법에 관해 관심을 갖고 연구하고 있습니다. 
+저는 고려대학교에서 "Gradient learning for high-dimensional binary classification in reproducing kernel Hilbert space" 라는 주제의 논문으로 통계학 박사학위를 취득하였습니다. 그동안 분위수 회귀, 커널 릿지 회귀, 서포트 벡터 머신 등 다양한 상황에서의 변수 선택 및 충분차원 축소 기법에 관하여 연구해왔으며, 현재는 자료의 출처가 다양한 경우에서의 효과적인 요인 추출 기법에 관해 관심을 갖고 연구하고 있습니다. 
