@@ -48,5 +48,5 @@ user_groups:
 - Ph.D. Students
 ---
 
-연구실 박사과정 최서원입니다. 관심분야는 ‘Canonical Correlation Analysis를 발전시킨 JIVE라는 데이터 통합 방법론을 어떻게 발전시킬까?’입니다. 정성규 교수님께서 개발하신 방향 데이터 분석 방법론인 Principal Nested Sphere를 개선하는 작업을 같이 하고 있습니다. 향후 저희 연구실에서 공부하고 있는 방법론을 의료데이터에 적용시키는 것이 목표입니다.AAA
+연구실 박사과정 최서원입니다. 관심분야는 ‘Canonical Correlation Analysis를 발전시킨 JIVE라는 데이터 통합 방법론을 어떻게 발전시킬까?’입니다. 정성규 교수님께서 개발하신 방향 데이터 분석 방법론인 Principal Nested Sphere를 개선하는 작업을 같이 하고 있습니다. 향후 저희 연구실에서 공부하고 있는 방법론을 의료데이터에 적용시키는 것이 목표입니다.
 관심 키워드 : Canonical Correlation Analysis, Data Integration, Principal Nested Sphere
