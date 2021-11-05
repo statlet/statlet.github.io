@@ -108,7 +108,19 @@ view: 2
     - 발표자 : 홍승기 [발표자료](https://www.dropbox.com/s/mnatkmwy57yhg21/210514_seminar.pdf?dl=0)
 35. Exact Post-Selection Inference, with Application to the Lasso
     - 발표자 : 박재성  [발표자료](https://www.dropbox.com/s/1kzs4c3b9dhki8i/20210618_Exact_Post_Selection_Inference__with_Application_to_the_Lasso.pdf?dl=0)
+
+#### Postdoctoral Researchers' Seminar
+
 36. Gradient Learning for High-dimensional Binary Classification in Reproducing Kernel Hilbert Space
     - 발표자 : 강종경 [발표자료](https://www.dropbox.com/s/bs7hqh6irpsi7dy/210915_Gradient_Learning_for_classification_in_RKHS.pdf?dl=0)
 37. Differentially Private Goodness of Fit Tests for Continuous Random Variables
     - 발표자 : 곽승우 [발표자료](https://www.dropbox.com/s/xlw4gw2lwknf83j/210927_Differentially%20private%20goodness%20of%20fit%20tests%20for%20continuous%20random%20variables.pdf?dl=0)
+
+#### Book Seminar : High Dimensional Probability
+
+38. Chap 0 ~ 2.2
+    - 발표자 : 박재성, 김태현 [발표자료](https://www.dropbox.com/s/rx6iox26az94853/2021-10-18%20Book%20Seminar%20Chap0~Chap2.2.pdf?dl=0)
+39. Chap 2.3 ~ 2.5
+    - 발표자 : 김용재 [발표자료](https://www.dropbox.com/s/y1f9pafr7xfxjl4/high_dimensional_probability_2_3_2_4.pdf?dl=0), 김민우 [발표자료](https://www.dropbox.com/s/9eu3yj9pdtnsr51/high_dimensional_probability_2_5.pdf?dl=0)
+40. Chap 2.6 ~ 2.7
+    - 발표자 : 이수진 [발표자료](https://www.dropbox.com/s/05ob98pj8xd921a/high_dimensional_probability_2_6.pdf?dl=0), 한상일 [발표자료](https://www.dropbox.com/s/9c2fnht6mwikqxx/high_dimensional_probability_2_7.pdf?dl=0)
