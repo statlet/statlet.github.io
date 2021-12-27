@@ -128,5 +128,9 @@ view: 2
     - 발표자 : 최서원 [발표자료](https://www.dropbox.com/s/udchmjkf7wbky0a/high_dimensional_probability_2_8_Bersteins_Inequality.pdf?dl=0), 조동혁 [발표자료](https://www.dropbox.com/s/1jmzhs8cxe5gf9u/high_dimensional_probability_3_1.pdf?dl=0)
 42. Chap 3.2 ~ 3.3
     - 발표자 : 손주희 [발표자료](https://www.dropbox.com/s/xtq0nhdt7g3v8jx/high_dimensional_probability_3_2.pdf?dl=0), 홍승기 [발표자료](https://www.dropbox.com/s/mzn87qoxuozw9cu/high_dimensional_probability_3_3.pdf?dl=0)
-43. Chap 3.4
-    - 발표자 : 박재성 [발표자료](https://www.dropbox.com/s/a7mmdpdipe6j310/high_dimensional_probability_3_4.pdf?dl=0)
+43. Chap 3.4 - 3.5
+    - 발표자 : 박재성 [발표자료](https://www.dropbox.com/s/a7mmdpdipe6j310/high_dimensional_probability_3_4.pdf?dl=0),  김태현 [발표자료](https://www.dropbox.com/s/5vdl5fvwipxjhds/high_dimensional_probability_3_5.pdf?dl=0)
+44. Chap 3.6
+    - 발표자 : 김용재 [발표자료](https://www.dropbox.com/s/etufelwbtszhhok/high_dimensional_probability_3_6.pdf?dl=0)
+45. Chap 3.7
+    - 발표자 : 김민우 [발표자료](https://www.dropbox.com/s/zp0wxc6tm0i0bmy/high_dimensional_probability_3_7.pdf?dl=0)
