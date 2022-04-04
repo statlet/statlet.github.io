@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: M.S student
+role: M.S 2022
 
 social:
 - icon: envelope
@@ -45,7 +45,7 @@ title: 손주희
 weight: 20
 
 user_groups:
-- Masters Students
+- Alumni
 ---
 
-서울대학교에서 통계학과 사회복지학을 전공하고, 현재 통계학 석사과정 중입니다. 차등정보보호를 히스토그램에 적용하였을 때의 분포의 동일성 검정에 대한 연구를 하고 있습니다. 
+Current position : Meritz Fire & Marine Insurance Co., Ltd.

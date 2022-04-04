@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: M.S student
+role: Ph.D. student
 
 social:
 - icon: envelope
@@ -45,7 +45,7 @@ title: 김용재
 weight: 10
 
 user_groups:
-- Masters Students
+- Ph.D. Students
 ---
 
 서울대학교 통계학과 석사과정에 재학중인 김용재입니다. 
