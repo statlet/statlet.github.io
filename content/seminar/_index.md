@@ -151,4 +151,4 @@ view: 2
 53. Chap 6.2 - 6.3
     - 발표자 : 박재성 [발표자료](https://www.dropbox.com/s/ajzwe680z4it9u5/high_dimensional_probability_6_2.pdf?dl=0), 박재성 [발표자료](https://www.dropbox.com/s/ts0kbyodmkctn6p/high_dimensional_probability_6_3.pdf?dl=0)
 54. Chap 6.4 - 6.5
-    - 발표자 : 김태현 [발표자료](https://www.dropbox.com/s/ehf2hpqovr7gf09/high_dimensional_probablility_6_4_6_5.pdf?dl=0)     
+    - 발표자 : 김태현 [발표자료](https://www.dropbox.com/s/ehf2hpqovr7gf09/high_dimensional_probablility_6_4_6_5.pdf?dl=0) 
