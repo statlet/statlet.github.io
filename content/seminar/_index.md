@@ -152,3 +152,15 @@ view: 2
     - 발표자 : 박재성 [발표자료](https://www.dropbox.com/s/ajzwe680z4it9u5/high_dimensional_probability_6_2.pdf?dl=0), 박재성 [발표자료](https://www.dropbox.com/s/ts0kbyodmkctn6p/high_dimensional_probability_6_3.pdf?dl=0)
 54. Chap 6.4 - 6.5
     - 발표자 : 김태현 [발표자료](https://www.dropbox.com/s/ehf2hpqovr7gf09/high_dimensional_probablility_6_4_6_5.pdf?dl=0) 
+
+55. Chap 6.6 - 6.7
+    - 발표자 : 김민우 [발표자료](https://www.dropbox.com/s/xizvj9on5lic1kw/high_dimensional_probability_6_6.pdf?dl=0), 김용재 [발표자료](https://www.dropbox.com/s/bt12ckhrxpg7ko1/high_dimensional_probability_6_7.pdf?dl=0)
+
+56. Chap 7.1 - 7.2
+    - 발표자 : 이수진 [발표자료](https://www.dropbox.com/s/yupef780if3g0b2/high_dimensional_probability_7_1.pdf?dl=0), 한상일 [발표자료](https://www.dropbox.com/s/sqhllxmgohhxdk4/high_dimensional_probability_7_2_1_2.pdf?dl=0)
+
+57. Chap 7.2 - 7.4
+    - 발표자 : 조동혁 [발표자료](https://www.dropbox.com/s/tshannex4dfhozj/high_dimensional_probability_7_2_3.pdf?dl=0), 조동혁 [발표자료](https://www.dropbox.com/s/sqp4g9d0cg08ltf/high_dimensional_probability_7_3.pdf?dl=0), 최서원 [발표자료](https://www.dropbox.com/s/1la3z0oo15taeam/high_dimensional_probability_7_4.pdf?dl=0)
+
+58. Chap 7.5
+    - 발표자 : 홍승기 [발표자료](https://www.dropbox.com/s/rzo4dcym5njbmsj/high_dimensional_probability_7_5.pdf?dl=0)
