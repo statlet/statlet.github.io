@@ -5,7 +5,7 @@
     <link>https://statlet.github.io/post/</link>
       <atom:link href="https://statlet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>All News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statlet.github.io/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_512x512_fill_lanczos_center_2.png</url>
       <title>All News</title>
@@ -13,31 +13,18 @@
     </image>
     
     <item>
-      <title>교수님 및 연구실 소개영상</title>
-      <link>https://statlet.github.io/post/labintroyoutube/</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://statlet.github.io/post/labintroyoutube/</guid>
-      <description>&lt;p&gt;2020년 8월 30일 자로 교수님 인터뷰 및 연구실 소개영상 촬영이 서울대학교 자연과학대학 유튜브에 올라왔습니다.&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/WhlLZix8JPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;연구실에 관심 있는 대학원 분들께 도움이 될 것으로 기대합니다.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>새로운 연구실 구성원(2020)</title>
-      <link>https://statlet.github.io/post/intromember/</link>
-      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://statlet.github.io/post/intromember/</guid>
-      <description>&lt;p&gt;2020년 8월에 3명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
-&lt;p&gt;김용재, 손주희, 홍승기 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요. 앞으로 잘 부탁드립니다.&lt;/p&gt;</description>
+      <title>새로운 연구실 구성원(2022)</title>
+      <link>https://statlet.github.io/post/intromember22/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/intromember22/</guid>
+      <description>&lt;p&gt;2022년 3월에 새로운 박사후연구원이 들어오셨습니다.&lt;/p&gt;
+&lt;p&gt;김기풍 박사님으로, 세부 연구 내용은 ‘Member’ 메뉴를 참고해주세요.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>새로운 연구실 구성원(2021)</title>
       <link>https://statlet.github.io/post/intromember21/</link>
-      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://statlet.github.io/post/intromember21/</guid>
       <description>&lt;p&gt;2021년 8월에 2명의 박사후연구원과 1명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
 &lt;p&gt;강종경 박사, 곽승우 박사, 김태현 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요.&lt;/p&gt;</description>
@@ -59,6 +46,28 @@
       <guid>https://statlet.github.io/post/labseminar/</guid>
       <description>&lt;p&gt;코로나 19의 영향으로 작년 여름에 중단되었던 랩세미나를 재개하였습니다.&lt;/p&gt;
 &lt;p&gt;랩세미나의 주제는 Inference on multi-source data integration 이며, 세부적으로는 multi-source data, covariance estimation and PCA, factor models, post selection inference, sub-L1 selection 에 대해 다룰 예정입니다. 코로나 19 확산을 방지하기 위하여 zoom을 통해 진행되고 있으며, 세미나 내용은 ‘Seminar’ 메뉴에서 확인하실 수 있습니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>교수님 및 연구실 소개영상</title>
+      <link>https://statlet.github.io/post/labintroyoutube/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/labintroyoutube/</guid>
+      <description>&lt;p&gt;2020년 8월 30일 자로 교수님 인터뷰 및 연구실 소개영상 촬영이 서울대학교 자연과학대학 유튜브에 올라왔습니다.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WhlLZix8JPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;연구실에 관심 있는 대학원 분들께 도움이 될 것으로 기대합니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>새로운 연구실 구성원(2020)</title>
+      <link>https://statlet.github.io/post/intromember/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/intromember/</guid>
+      <description>&lt;p&gt;2020년 8월에 3명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
+&lt;p&gt;김용재, 손주희, 홍승기 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요. 앞으로 잘 부탁드립니다.&lt;/p&gt;</description>
     </item>
     
   </channel>

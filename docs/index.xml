@@ -28,138 +28,211 @@
     </item>
     
     <item>
+      <title>Conformal Prediction</title>
+      <link>https://statlet.github.io/seminar/confpred/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/seminar/confpred/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Presenter&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Slide&lt;/th&gt;
+&lt;th&gt;Paper&lt;/th&gt;
+&lt;th&gt;Reference&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.&lt;/td&gt;
+&lt;td&gt;2022-07-11&lt;/td&gt;
+&lt;td&gt;홍승기&lt;/td&gt;
+&lt;td&gt;ClusTorus: An R Package for Prediction and Clustering on the Torus by Conformal Prediction&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/26g0sab9qxslmb7/220711_seminar.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>새로운 연구실 구성원(2022)</title>
+      <link>https://statlet.github.io/post/intromember22/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/intromember22/</guid>
+      <description>&lt;p&gt;2022년 3월에 새로운 박사후연구원이 들어오셨습니다.&lt;/p&gt;
+&lt;p&gt;김기풍 박사님으로, 세부 연구 내용은 ‘Member’ 메뉴를 참고해주세요.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Book Seminar - High Dimensional Probability</title>
       <link>https://statlet.github.io/seminar/hdp/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://statlet.github.io/seminar/hdp/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 0 ~ 2.2&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 박재성, 김태현 &lt;a href=&#34;https://www.dropbox.com/s/rx6iox26az94853/2021-10-18%20Book%20Seminar%20Chap0~Chap2.2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 2.3 ~ 2.5&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 김용재 &lt;a href=&#34;https://www.dropbox.com/s/y1f9pafr7xfxjl4/high_dimensional_probability_2_3_2_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 김민우 &lt;a href=&#34;https://www.dropbox.com/s/9eu3yj9pdtnsr51/high_dimensional_probability_2_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 2.6 ~ 2.7&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 이수진 &lt;a href=&#34;https://www.dropbox.com/s/05ob98pj8xd921a/high_dimensional_probability_2_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 한상일 &lt;a href=&#34;https://www.dropbox.com/s/9c2fnht6mwikqxx/high_dimensional_probability_2_7.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 2.8 ~ 3.1&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 최서원 &lt;a href=&#34;https://www.dropbox.com/s/udchmjkf7wbky0a/high_dimensional_probability_2_8_Bersteins_Inequality.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 조동혁 &lt;a href=&#34;https://www.dropbox.com/s/1jmzhs8cxe5gf9u/high_dimensional_probability_3_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 3.2 ~ 3.3&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 손주희 &lt;a href=&#34;https://www.dropbox.com/s/xtq0nhdt7g3v8jx/high_dimensional_probability_3_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 홍승기 &lt;a href=&#34;https://www.dropbox.com/s/mzn87qoxuozw9cu/high_dimensional_probability_3_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 3.4 - 3.5&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 박재성 &lt;a href=&#34;https://www.dropbox.com/s/a7mmdpdipe6j310/high_dimensional_probability_3_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;,  김태현 &lt;a href=&#34;https://www.dropbox.com/s/5vdl5fvwipxjhds/high_dimensional_probability_3_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 3.6&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 김용재 &lt;a href=&#34;https://www.dropbox.com/s/etufelwbtszhhok/high_dimensional_probability_3_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 3.7&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 김민우 &lt;a href=&#34;https://www.dropbox.com/s/zp0wxc6tm0i0bmy/high_dimensional_probability_3_7.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 4.1 - 4.2&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 이수진 &lt;a href=&#34;https://www.dropbox.com/s/1vguyrrr9rlu965/high_dimensional_probability_4_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;,  한상일 &lt;a href=&#34;https://www.dropbox.com/s/i28em8ooiysavlu/high_dimensional_probability_4_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 4.3 - 4.4&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 조동혁 &lt;a href=&#34;https://www.dropbox.com/s/9ut6pk4zjoizb2k/high_dimensional_probability_4_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;,  최서원 &lt;a href=&#34;https://www.dropbox.com/s/mtmwrs1b40zv9r7/high_dimensional_probability_4_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 4.5 - 4.6&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 홍승기 &lt;a href=&#34;https://www.dropbox.com/s/l6wv9z5ptlm3f3s/high_dimensional_probability_4_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;,  박재성 &lt;a href=&#34;https://www.dropbox.com/s/07mh9kkrl3440dx/high_dimensional_probability_4_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 4.7 - 5.1&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 김태현 &lt;a href=&#34;https://www.dropbox.com/s/5ga1xjiwq6rnqee/high_dimensional_probability_4_7.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;,  김민우 &lt;a href=&#34;https://www.dropbox.com/s/wxegmhlx9zmbn4w/high_dimensional_probability_5_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 5.2 - 5.3&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 한상일 &lt;a href=&#34;https://www.dropbox.com/s/ywrgwlz1vhepqw2/high_dimensional_probability_5_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 김용재 &lt;a href=&#34;https://www.dropbox.com/s/6vma4sysqv3eiya/high_dimensional_probability_5_3___SDP.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 5.4 - 5.5&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 이수진, 조동혁 &lt;a href=&#34;https://www.dropbox.com/s/kpklgj2lilovxxy/high_dimensional_probability_5_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 조동혁 &lt;a href=&#34;https://www.dropbox.com/s/au4g6whmsrhm1h7/high_dimensional_probability_5_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 5.6 - 6.1&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 홍승기 &lt;a href=&#34;https://www.dropbox.com/s/5sjtadmu4xyufqi/high_dimensional_probability_5_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 최서원 &lt;a href=&#34;https://www.dropbox.com/s/ys205dke2qu5b9b/high_dimensional_probability_6_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 6.2 - 6.3&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 박재성 &lt;a href=&#34;https://www.dropbox.com/s/ajzwe680z4it9u5/high_dimensional_probability_6_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 박재성 &lt;a href=&#34;https://www.dropbox.com/s/ts0kbyodmkctn6p/high_dimensional_probability_6_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 6.4 - 6.5&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 김태현 &lt;a href=&#34;https://www.dropbox.com/s/ehf2hpqovr7gf09/high_dimensional_probablility_6_4_6_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 6.6 - 6.7&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 김민우 &lt;a href=&#34;https://www.dropbox.com/s/xizvj9on5lic1kw/high_dimensional_probability_6_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 김용재 &lt;a href=&#34;https://www.dropbox.com/s/bt12ckhrxpg7ko1/high_dimensional_probability_6_7.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 7.1 - 7.2&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 이수진 &lt;a href=&#34;https://www.dropbox.com/s/yupef780if3g0b2/high_dimensional_probability_7_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 한상일 &lt;a href=&#34;https://www.dropbox.com/s/sqhllxmgohhxdk4/high_dimensional_probability_7_2_1_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 7.2 - 7.4&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 조동혁 &lt;a href=&#34;https://www.dropbox.com/s/tshannex4dfhozj/high_dimensional_probability_7_2_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 조동혁 &lt;a href=&#34;https://www.dropbox.com/s/sqp4g9d0cg08ltf/high_dimensional_probability_7_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;, 최서원 &lt;a href=&#34;https://www.dropbox.com/s/1la3z0oo15taeam/high_dimensional_probability_7_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Chap 7.5&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 홍승기 &lt;a href=&#34;https://www.dropbox.com/s/rzo4dcym5njbmsj/high_dimensional_probability_7_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description>
+      <description>&lt;p&gt;Reference : R. Vershynin (2018). &lt;em&gt;High-Dimensional Probability: An Introduction with Applications in Data Science&lt;/em&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Presenter&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Slide&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.&lt;/td&gt;
+&lt;td&gt;2021-10-18&lt;/td&gt;
+&lt;td&gt;박재성. 김태현&lt;/td&gt;
+&lt;td&gt;Chapter 0 - 2.2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/rx6iox26az94853/2021-10-18%20Book%20Seminar%20Chap0~Chap2.2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2.&lt;/td&gt;
+&lt;td&gt;2021-10-25&lt;/td&gt;
+&lt;td&gt;김용재, 김민우&lt;/td&gt;
+&lt;td&gt;Chapter 2.3 - 2.5&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/y1f9pafr7xfxjl4/high_dimensional_probability_2_3_2_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/9eu3yj9pdtnsr51/high_dimensional_probability_2_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3.&lt;/td&gt;
+&lt;td&gt;2021-11-01&lt;/td&gt;
+&lt;td&gt;이수진, 한상일&lt;/td&gt;
+&lt;td&gt;Chapter 2.6 - 2.7&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/05ob98pj8xd921a/high_dimensional_probability_2_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/9c2fnht6mwikqxx/high_dimensional_probability_2_7.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4.&lt;/td&gt;
+&lt;td&gt;2021-11-08&lt;/td&gt;
+&lt;td&gt;최서원, 조동혁&lt;/td&gt;
+&lt;td&gt;Chapter 2.8 - 3.1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/udchmjkf7wbky0a/high_dimensional_probability_2_8_Bersteins_Inequality.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/1jmzhs8cxe5gf9u/high_dimensional_probability_3_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5.&lt;/td&gt;
+&lt;td&gt;2021-11-15&lt;/td&gt;
+&lt;td&gt;손주희, 홍승기&lt;/td&gt;
+&lt;td&gt;Chapter 3.2 - 3.3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/xtq0nhdt7g3v8jx/high_dimensional_probability_3_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/mzn87qoxuozw9cu/high_dimensional_probability_3_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6.&lt;/td&gt;
+&lt;td&gt;2021-12-06&lt;/td&gt;
+&lt;td&gt;박재성&lt;/td&gt;
+&lt;td&gt;Chapter 3.4&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/a7mmdpdipe6j310/high_dimensional_probability_3_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7.&lt;/td&gt;
+&lt;td&gt;2021-12-13&lt;/td&gt;
+&lt;td&gt;김태현, 김용재&lt;/td&gt;
+&lt;td&gt;Chapter 3.5 - 3.6&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/5vdl5fvwipxjhds/high_dimensional_probability_3_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/etufelwbtszhhok/high_dimensional_probability_3_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8.&lt;/td&gt;
+&lt;td&gt;2021-12-20&lt;/td&gt;
+&lt;td&gt;김민우&lt;/td&gt;
+&lt;td&gt;Chapter 3.7&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/zp0wxc6tm0i0bmy/high_dimensional_probability_3_7.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9.&lt;/td&gt;
+&lt;td&gt;2022-01-11&lt;/td&gt;
+&lt;td&gt;이수진, 한상일&lt;/td&gt;
+&lt;td&gt;Chapter 4.1 - 4.2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/1vguyrrr9rlu965/high_dimensional_probability_4_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/i28em8ooiysavlu/high_dimensional_probability_4_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10.&lt;/td&gt;
+&lt;td&gt;2022-01-18&lt;/td&gt;
+&lt;td&gt;조동혁, 최서원&lt;/td&gt;
+&lt;td&gt;Chapter 4.3 - 4.4&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/9ut6pk4zjoizb2k/high_dimensional_probability_4_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/mtmwrs1b40zv9r7/high_dimensional_probability_4_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11.&lt;/td&gt;
+&lt;td&gt;2022-01-25&lt;/td&gt;
+&lt;td&gt;홍승기, 박재성&lt;/td&gt;
+&lt;td&gt;Chapter 4.5 - 4.6&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/l6wv9z5ptlm3f3s/high_dimensional_probability_4_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/07mh9kkrl3440dx/high_dimensional_probability_4_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12.&lt;/td&gt;
+&lt;td&gt;2022-02-08&lt;/td&gt;
+&lt;td&gt;김태현, 김민우&lt;/td&gt;
+&lt;td&gt;Chapter 4.7 - 5.1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/5ga1xjiwq6rnqee/high_dimensional_probability_4_7.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/wxegmhlx9zmbn4w/high_dimensional_probability_5_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13.&lt;/td&gt;
+&lt;td&gt;2022-02-15&lt;/td&gt;
+&lt;td&gt;한상일, 김용재&lt;/td&gt;
+&lt;td&gt;Chapter 5.2 - 5.3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/ywrgwlz1vhepqw2/high_dimensional_probability_5_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/6vma4sysqv3eiya/high_dimensional_probability_5_3___SDP.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14.&lt;/td&gt;
+&lt;td&gt;2022-02-22&lt;/td&gt;
+&lt;td&gt;이수진, 조동혁&lt;/td&gt;
+&lt;td&gt;Chapter 5.4 - 5.5&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/kpklgj2lilovxxy/high_dimensional_probability_5_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/au4g6whmsrhm1h7/high_dimensional_probability_5_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15.&lt;/td&gt;
+&lt;td&gt;2022-03-17&lt;/td&gt;
+&lt;td&gt;홍승기, 최서원&lt;/td&gt;
+&lt;td&gt;Chapter 5.6 - 6.1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/5sjtadmu4xyufqi/high_dimensional_probability_5_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/ys205dke2qu5b9b/high_dimensional_probability_6_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16.&lt;/td&gt;
+&lt;td&gt;2022-03-24&lt;/td&gt;
+&lt;td&gt;박재성&lt;/td&gt;
+&lt;td&gt;Chapter 6.2 - 6.3&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/ajzwe680z4it9u5/high_dimensional_probability_6_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/ts0kbyodmkctn6p/high_dimensional_probability_6_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17.&lt;/td&gt;
+&lt;td&gt;2022-03-31&lt;/td&gt;
+&lt;td&gt;김태현&lt;/td&gt;
+&lt;td&gt;Chapter 6.4 - 6.5&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/ehf2hpqovr7gf09/high_dimensional_probablility_6_4_6_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18.&lt;/td&gt;
+&lt;td&gt;2022-04-07&lt;/td&gt;
+&lt;td&gt;김민우, 김용재&lt;/td&gt;
+&lt;td&gt;Chapter 6.6 - 6.7&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/xizvj9on5lic1kw/high_dimensional_probability_6_6.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/bt12ckhrxpg7ko1/high_dimensional_probability_6_7.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19.&lt;/td&gt;
+&lt;td&gt;2022-04-14&lt;/td&gt;
+&lt;td&gt;이수진, 한상일&lt;/td&gt;
+&lt;td&gt;Chapter 7.1 - 7.2&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/yupef780if3g0b2/high_dimensional_probability_7_1.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/sqhllxmgohhxdk4/high_dimensional_probability_7_2_1_2.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20.&lt;/td&gt;
+&lt;td&gt;2022-04-28&lt;/td&gt;
+&lt;td&gt;조동혁, 최서원&lt;/td&gt;
+&lt;td&gt;Chapter 7.2 - 7.4&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/tshannex4dfhozj/high_dimensional_probability_7_2_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/sqp4g9d0cg08ltf/high_dimensional_probability_7_3.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt; &lt;a href=&#34;https://www.dropbox.com/s/1la3z0oo15taeam/high_dimensional_probability_7_4.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;21.&lt;/td&gt;
+&lt;td&gt;2022-05-19&lt;/td&gt;
+&lt;td&gt;홍승기&lt;/td&gt;
+&lt;td&gt;Chapter 7.5&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/rzo4dcym5njbmsj/high_dimensional_probability_7_5.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     
     <item>
@@ -179,6 +252,15 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>새로운 연구실 구성원(2021)</title>
+      <link>https://statlet.github.io/post/intromember21/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/intromember21/</guid>
+      <description>&lt;p&gt;2021년 8월에 2명의 박사후연구원과 1명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
+&lt;p&gt;강종경 박사, 곽승우 박사, 김태현 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -223,37 +305,6 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;</description>
-    </item>
-    
-    <item>
-      <title>교수님 및 연구실 소개영상</title>
-      <link>https://statlet.github.io/post/labintroyoutube/</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://statlet.github.io/post/labintroyoutube/</guid>
-      <description>&lt;p&gt;2020년 8월 30일 자로 교수님 인터뷰 및 연구실 소개영상 촬영이 서울대학교 자연과학대학 유튜브에 올라왔습니다.&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/WhlLZix8JPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;연구실에 관심 있는 대학원 분들께 도움이 될 것으로 기대합니다.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>새로운 연구실 구성원(2020)</title>
-      <link>https://statlet.github.io/post/intromember/</link>
-      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://statlet.github.io/post/intromember/</guid>
-      <description>&lt;p&gt;2020년 8월에 3명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
-&lt;p&gt;김용재, 손주희, 홍승기 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요. 앞으로 잘 부탁드립니다.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>새로운 연구실 구성원(2021)</title>
-      <link>https://statlet.github.io/post/intromember21/</link>
-      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://statlet.github.io/post/intromember21/</guid>
-      <description>&lt;p&gt;2021년 8월에 2명의 박사후연구원과 1명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
-&lt;p&gt;강종경 박사, 곽승우 박사, 김태현 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -362,6 +413,28 @@
       <guid>https://statlet.github.io/post/labseminar/</guid>
       <description>&lt;p&gt;코로나 19의 영향으로 작년 여름에 중단되었던 랩세미나를 재개하였습니다.&lt;/p&gt;
 &lt;p&gt;랩세미나의 주제는 Inference on multi-source data integration 이며, 세부적으로는 multi-source data, covariance estimation and PCA, factor models, post selection inference, sub-L1 selection 에 대해 다룰 예정입니다. 코로나 19 확산을 방지하기 위하여 zoom을 통해 진행되고 있으며, 세미나 내용은 ‘Seminar’ 메뉴에서 확인하실 수 있습니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>교수님 및 연구실 소개영상</title>
+      <link>https://statlet.github.io/post/labintroyoutube/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/labintroyoutube/</guid>
+      <description>&lt;p&gt;2020년 8월 30일 자로 교수님 인터뷰 및 연구실 소개영상 촬영이 서울대학교 자연과학대학 유튜브에 올라왔습니다.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WhlLZix8JPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;연구실에 관심 있는 대학원 분들께 도움이 될 것으로 기대합니다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>새로운 연구실 구성원(2020)</title>
+      <link>https://statlet.github.io/post/intromember/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/intromember/</guid>
+      <description>&lt;p&gt;2020년 8월에 3명의 석사과정생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
+&lt;p&gt;김용재, 손주희, 홍승기 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요. 앞으로 잘 부탁드립니다.&lt;/p&gt;</description>
     </item>
     
     <item>
