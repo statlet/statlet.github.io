@@ -5,43 +5,12 @@
     <link>https://statlet.github.io/seminar/</link>
       <atom:link href="https://statlet.github.io/seminar/index.xml" rel="self" type="application/rss+xml" />
     <description>Our Seminar Lists</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statlet.github.io/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_512x512_fill_lanczos_center_2.png</url>
       <title>Our Seminar Lists</title>
       <link>https://statlet.github.io/seminar/</link>
     </image>
-    
-    <item>
-      <title>Conformal Prediction</title>
-      <link>https://statlet.github.io/seminar/confpred/</link>
-      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://statlet.github.io/seminar/confpred/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;th&gt;Presenter&lt;/th&gt;
-&lt;th&gt;Title&lt;/th&gt;
-&lt;th&gt;Slide&lt;/th&gt;
-&lt;th&gt;Paper&lt;/th&gt;
-&lt;th&gt;Reference&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1.&lt;/td&gt;
-&lt;td&gt;2022-07-11&lt;/td&gt;
-&lt;td&gt;홍승기&lt;/td&gt;
-&lt;td&gt;ClusTorus: An R Package for Prediction and Clustering on the Torus by Conformal Prediction&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.dropbox.com/s/26g0sab9qxslmb7/220711_seminar.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</description>
-    </item>
     
     <item>
       <title>Book Seminar - High Dimensional Probability</title>
