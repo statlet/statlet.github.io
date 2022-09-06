@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>유창조 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EC%9C%A0%EC%B0%BD%EC%A1%B0/</link>
+      <atom:link href="https://statlet.github.io/author/%EC%9C%A0%EC%B0%BD%EC%A1%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>유창조</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/author/%EC%9C%A0%EC%B0%BD%EC%A1%B0/avatar_hu796f43ce3436b57481e409d915436307_269548_270x270_fill_lanczos_center_2.png</url>
+      <title>유창조</title>
+      <link>https://statlet.github.io/author/%EC%9C%A0%EC%B0%BD%EC%A1%B0/</link>
+    </image>
+    
+  </channel>
+</rss>

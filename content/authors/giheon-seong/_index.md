@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: M.S 2022
+role: M.S student
 
 social:
 - icon: envelope
@@ -40,12 +40,13 @@ social:
   
 superuser: false
 
-title: 홍승기
+title: 성기헌
 
 weight: 10
 
 user_groups:
-- Alumni
+- Masters Students
 ---
 
-Placement : Meritz Fire & Marine Insurance Co., Ltd.
+석사과정 재학 중인 성기헌 입니다. 현재는 적절한 가정 하에서, 고차원 데이터에 PCA를 적용하였을 때 생기는 bias와 이를 보정할 수 있는 방법론을 공부하고 있습니다. 이후에도 고차원 데이터 분석 방법론을 연구하고 싶습니다.
+

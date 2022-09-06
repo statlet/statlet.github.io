@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: M.S 2022
+role: Ph.D. student
 
 social:
 - icon: envelope
@@ -40,12 +40,12 @@ social:
   
 superuser: false
 
-title: 홍승기
+title: 김규원
 
 weight: 10
 
 user_groups:
-- Alumni
+- Ph.D. Students
 ---
 
-Placement : Meritz Fire & Marine Insurance Co., Ltd.
+석박사 통합과정 김규원입니다. 연구분야는 multi-source data를 분석하기 위한 통계모델 개발 및 연구입니다. 고차원 데이터 분석을 위한 generalized PCA방법과 canonical correlation analysis에도 관심 있습니다.

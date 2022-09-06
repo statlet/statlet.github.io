@@ -48,4 +48,4 @@ user_groups:
 - Alumni
 ---
 
-Current position : Meritz Fire & Marine Insurance Co., Ltd.
+Placement : Meritz Fire & Marine Insurance Co., Ltd.

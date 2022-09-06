@@ -5,12 +5,21 @@
     <link>https://statlet.github.io/post/</link>
       <atom:link href="https://statlet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>All News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://statlet.github.io/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_512x512_fill_lanczos_center_2.png</url>
       <title>All News</title>
       <link>https://statlet.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>새로운 연구실 구성원(2022-2)</title>
+      <link>https://statlet.github.io/post/intromember22-2/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://statlet.github.io/post/intromember22-2/</guid>
+      <description>&lt;p&gt;2022년 8월에 1명의 석박사통합과정 학생과 2명의 석사과정 학생이 연구실에 새로 들어왔습니다.&lt;/p&gt;
+&lt;p&gt;김규원(석박사통합과정), 성기헌(석사과정), 유창조(석사과정) 학생으로, 각 학생의 연구 내용은 ‘Member’ 메뉴를 참고해주세요.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>새로운 연구실 구성원(2022)</title>
