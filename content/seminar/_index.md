@@ -28,5 +28,11 @@ header:
 | 5.   | 2022-08-08 | 김태현    | Double Data Piling for Heterogeneous Covariance Models       | [발표자료](https://www.dropbox.com/s/jwuxjrrhc1pspdn/220808_seminar.pdf?dl=0) |                                                              |
 | 6.   | 2022-08-22 | 김태현    | Double data piling leads to perfect classification           | [발표자료](https://www.dropbox.com/s/zfqsvdescwzd1xw/220822_seminar.pdf?dl=0) | [Paper](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-2/Double-data-piling-leads-to-perfect-classification/10.1214/21-EJS1945.full) |
 | 7.   | 2022-08-29 | 김용재    | Privacy of Synthetic Data: A Statistical Framework           | [발표자료](https://www.dropbox.com/s/73i9hye0p3052s6/220829_seminar.pdf?dl=0) | [Paper](https://arxiv.org/abs/2109.01748)                    |
+| 8.   | 2022-09-23 | 김민우    | Private Sampling: A Noiseless Approach for Generating Differentially Private Synthetic Data | [발표자료](https://www.dropbox.com/s/zxlt6qozihyzol0/220923_seminar.pdf?dl=0) | [Paper](https://doi.org/10.1137/21M1449944)                  |
+| 9.   | 2022-10-07 | 이수진    | Debiasing The Lasso                                          | [발표자료](https://www.dropbox.com/s/xj9erqyabc6wo6i/221007_seminar.pdf?dl=0) | [Paper](https://doi.org/10.1214/17-AOS1630)                  |
+| 10.  | 2022-10-07 | 조동혁    | Finite Sample Smeariness                                     | [발표자료](https://www.dropbox.com/s/cvvxvxjo0pr9qf3/221007_seminar_2.pdf?dl=0) | [Paper](https://doi.org/10.48550/arXiv.2005.02321)           |
+| 11.  | 2022-10-21 | 박재성    | Wasserstein-Quantile PCA                                     | [발표자료](https://www.dropbox.com/s/mrbs4ig9qdptvrc/221021_seminar.pdf?dl=0) |                                                              |
+| 12.  | 2022-12-16 | 성기헌    | PCA consistency for the spiked model                         | [발표자료](https://www.dropbox.com/s/7y96smip1l9gzho/221216_seminar_1.pdf?dl=0) | [Paper](https://doi.org/10.1016/j.jmva.2011.09.002)          |
+| 13.  | 2022-12-16 | 유창조    | Confidence Sets for Persistence Diagrams                     | [발표자료](https://www.dropbox.com/s/iloijejgoaitvyr/221118_seminar_2.pdf?dl=0) | [Paper](https://doi.org/10.1214/14-AOS1252)                  |
 
 ###### Past seminars
