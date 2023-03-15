@@ -34,5 +34,9 @@ header:
 | 11.  | 2022-10-21 | 박재성    | Wasserstein-Quantile PCA                                     | [발표자료](https://www.dropbox.com/s/mrbs4ig9qdptvrc/221021_seminar.pdf?dl=0) |                                                              |
 | 12.  | 2022-12-16 | 성기헌    | PCA consistency for the spiked model                         | [발표자료](https://www.dropbox.com/s/7y96smip1l9gzho/221216_seminar_1.pdf?dl=0) | [Paper](https://doi.org/10.1016/j.jmva.2011.09.002)          |
 | 13.  | 2022-12-16 | 유창조    | Confidence Sets for Persistence Diagrams                     | [발표자료](https://www.dropbox.com/s/iloijejgoaitvyr/221118_seminar_2.pdf?dl=0) | [Paper](https://doi.org/10.1214/14-AOS1252)                  |
+| 14.  | 2023-02-03 | 김규원    | Consistency of spherical PCA as robust estimation            | [발표자료](https://www.dropbox.com/s/e4l8b6bm96itz31/230203_seminar_Consistency%20of%20spherical%20PCA.pdf?dl=0) | [Paper](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-9/issue-1/High-dimension-low-sample-size-asymptotics-of-robust-PCA/10.1214/15-EJS992.full) |
+| 15.  | 2023-02-03 | 한상일    | Spherical SVD                                                | [발표자료](https://www.dropbox.com/s/ybcpi5b4cg6yofn/230203_seminar_1%5BSphericalSVD%5D.pdf?dl=0) |                                                              |
+| 16.  | 2023-02-17 | 박재성    | Wasserstein Regression                                       | [발표자료](https://www.dropbox.com/s/67dmdoycjdtdz9o/230217_seminar___Wasserstein_Regression.pdf?dl=0) | [Paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1956937) |
+| 17.  | 2023-02-24 | 김태현    | Double Data Piling for Heterogeneous Covariance Models       | [발표자료](https://www.dropbox.com/s/psasgp6wp23roxq/230217_Seminar_DDP.pdf?dl=0) |                                                              |
 
 ###### Past seminars

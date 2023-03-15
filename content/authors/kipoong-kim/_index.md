@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher(2022.3~2023.2)
 
 social:
 - icon: envelope
@@ -45,7 +45,7 @@ title: 김기풍
 weight: 20
 
 user_groups:
-- Postdoctoral Researchers
+- Alumni
 ---
 
-주요 관심사는 Genomic data를 분석하기 위한 다양한 통계적 방법론을 개발하는 것입니다. 현재 진행 중인 연구는 한 개인에게서 생산되는 다양한 형태의 multi-source genomic data를 통합하기 위한 방법을 개발하는 것입니다.
+Current position : Researcher at Yonsei University College of Medicine.
