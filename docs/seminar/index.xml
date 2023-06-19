@@ -7,7 +7,7 @@
     <description>Our Seminar Lists</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright><lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://statlet.github.io/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_512x512_fill_lanczos_center_2.png</url>
+      <url>https://statlet.github.io/images/icon_hu040ba870ca527438c4694c5f17704ecf_28040_512x512_fill_lanczos_center_3.png</url>
       <title>Our Seminar Lists</title>
       <link>https://statlet.github.io/seminar/</link>
     </image>
@@ -250,16 +250,12 @@
       <guid>https://statlet.github.io/seminar/factor/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Factor models and variable selection in high-dimensional regression analysis&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 박재성 &lt;a href=&#34;https://www.dropbox.com/s/0t65wfiwujhz7h2/2021-02-23%20Factor%20models%20and%20variable%20selection%20in%20high-dimensional%20regression%20analysis.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Factor models and variable selection in high-dimensional regression analysis
+* 발표자 : 박재성 &lt;a href=&#34;https://www.dropbox.com/s/0t65wfiwujhz7h2/2021-02-23%20Factor%20models%20and%20variable%20selection%20in%20high-dimensional%20regression%20analysis.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Statistical analysis of factor models of high-dimension&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;발표자 : 한상일 &lt;a href=&#34;https://www.dropbox.com/s/dko4meq59jbvvk8/2021_03_12_SLT_lapseminar.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Statistical analysis of factor models of high-dimension
+* 발표자 : 한상일 &lt;a href=&#34;https://www.dropbox.com/s/dko4meq59jbvvk8/2021_03_12_SLT_lapseminar.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;발표자료&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Factor-adjusted regularized model selection&lt;/p&gt;
