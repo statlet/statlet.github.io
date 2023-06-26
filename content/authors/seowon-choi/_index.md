@@ -48,3 +48,7 @@ user_groups:
 - Alumni
 ---
 
+<br></br>
+
+Current Position: 서울대학교 의과대학 의과학대학원 연수연구원
+

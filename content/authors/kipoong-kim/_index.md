@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Postdoctoral Researcher(2022.3~2023.2)
+role: Postdoctoral Researcher
 
 social:
 - icon: envelope
@@ -45,7 +45,5 @@ title: 김기풍
 weight: 20
 
 user_groups:
-- Alumni
+- Postdoctoral Researchers
 ---
-
-Current position : Researcher at Yonsei University College of Medicine.
