@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>윤동선 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EC%9C%A4%EB%8F%99%EC%84%A0/</link>
+      <atom:link href="https://statlet.github.io/author/%EC%9C%A4%EB%8F%99%EC%84%A0/index.xml" rel="self" type="application/rss+xml" />
+    <description>윤동선</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/author/%EC%9C%A4%EB%8F%99%EC%84%A0/avatar_hue42560942a254e1849dc7d3de4c06038_457295_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>윤동선</title>
+      <link>https://statlet.github.io/author/%EC%9C%A4%EB%8F%99%EC%84%A0/</link>
+    </image>
+    
+  </channel>
+</rss>
