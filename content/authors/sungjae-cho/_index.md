@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Ph.D. student
+role: M.S student
 
 social:
 - icon: envelope
@@ -40,13 +40,15 @@ social:
   
 superuser: false
 
-title: 성기헌
+title: 조성재
 
 weight: 10
 
 user_groups:
-- Ph.D. Students
+- Masters Students
 ---
 
-박사과정 재학 중인 성기헌 입니다. 현재는 적절한 가정 하에서, 고차원 데이터에 PCA를 적용하였을 때 생기는 bias와 이를 보정할 수 있는 방법론을 공부하고 있습니다. 이후에도 고차원 데이터 분석 방법론을 연구하고 싶습니다.
+석사과정에 재학 중인 조성재입니다. 
+불확실성을 고려하고 통제하는 통계의 매력에 빠져 진학하게 되었으며 고차원 데이터의 차원축소기법에 흥미를 느껴 연구실에 들어왔습니다. 
+데이터 사이언스 분야의 발전 속도가 빠른 만큼 전반적으로 관심을 두고 공부하는 것을 지향하고 있습니다.
 

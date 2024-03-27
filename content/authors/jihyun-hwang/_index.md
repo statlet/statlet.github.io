@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Ph.D. student
+role: M.S student
 
 social:
 - icon: envelope
@@ -40,13 +40,13 @@ social:
   
 superuser: false
 
-title: 성기헌
+title: 황지현
 
 weight: 10
 
 user_groups:
-- Ph.D. Students
+- Masters Students
 ---
 
-박사과정 재학 중인 성기헌 입니다. 현재는 적절한 가정 하에서, 고차원 데이터에 PCA를 적용하였을 때 생기는 bias와 이를 보정할 수 있는 방법론을 공부하고 있습니다. 이후에도 고차원 데이터 분석 방법론을 연구하고 싶습니다.
+석사과정에 재학중인 황지현입니다. 제 관심분야는 고차원 자료분석 방법론입니다. 현재는 pca를 이용한 재현자료 생성에 대해 공부하고있습니다. 
 

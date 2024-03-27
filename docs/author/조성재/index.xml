@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>조성재 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EC%A1%B0%EC%84%B1%EC%9E%AC/</link>
+      <atom:link href="https://statlet.github.io/author/%EC%A1%B0%EC%84%B1%EC%9E%AC/index.xml" rel="self" type="application/rss+xml" />
+    <description>조성재</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/author/%EC%A1%B0%EC%84%B1%EC%9E%AC/avatar.png_hu278b92426091e09fa8e701398a31ecf2_1912044_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>조성재</title>
+      <link>https://statlet.github.io/author/%EC%A1%B0%EC%84%B1%EC%9E%AC/</link>
+    </image>
+    
+  </channel>
+</rss>

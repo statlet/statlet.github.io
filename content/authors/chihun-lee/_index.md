@@ -40,7 +40,7 @@ social:
   
 superuser: false
 
-title: 성기헌
+title: 이치훈
 
 weight: 10
 
@@ -48,5 +48,5 @@ user_groups:
 - Ph.D. Students
 ---
 
-박사과정 재학 중인 성기헌 입니다. 현재는 적절한 가정 하에서, 고차원 데이터에 PCA를 적용하였을 때 생기는 bias와 이를 보정할 수 있는 방법론을 공부하고 있습니다. 이후에도 고차원 데이터 분석 방법론을 연구하고 싶습니다.
+서울대학교 수학과와 통계학과를 복수전공하고 현재는 통계학과 석박통합과정에 재학 중인 이치훈입니다. PCA, Functional data analysis, Manifold 위에서의 클러스터링 등 고차원 데이터 분석 전반에 관심이 많습니다. 
 
