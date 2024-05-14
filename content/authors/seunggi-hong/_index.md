@@ -48,4 +48,4 @@ user_groups:
 - Alumni
 ---
 
-Current position: Ph.D. student in Statistics at Colombia University
+Placement : Meritz Fire & Marine Insurance Co., Ltd.
