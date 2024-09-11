@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Postdoctoral Researcher(2021.9~2022.2)
+role: Postdoctoral Researcher
 
 social:
 - icon: envelope

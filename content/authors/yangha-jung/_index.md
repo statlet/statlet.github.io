@@ -2,7 +2,7 @@
 bio: My research interest is high-dimensional multivariate statistics.
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
+#  - course: PhD in Artificial Intelligence 
 #    institution: Stanford University
 #    year: 2012
 
@@ -17,12 +17,12 @@ education:
 email: ""
 highlight_name: false
 #interests:
-#  - High-dimensional multivariate statistics
-#  - Matrix perturbation theory
+#- High-dimensional multivariate statistics
+#- Matrix perturbation theory
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Ph.D. 2024
+role: Postdoctoral Researcher
 
 social:
 - icon: envelope
@@ -37,15 +37,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/minwooKim1717
-
+  
 superuser: false
 
-title: 조동혁
+title: 정양하
 
-weight: 2
+weight: 20
 
 user_groups:
-- Alumni
+- Postdoctoral Researchers
 ---
 
-Placement: Samsumg SDS
+Spatial statistics에서의 kernel estimation등 비모수적 추정과 histogram data의 분류 및 통계적 예측에 관한 연구를 진행하고 있습니다.

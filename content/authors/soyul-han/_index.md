@@ -2,7 +2,7 @@
 bio: My research interest is high-dimensional multivariate statistics.
 education:
   courses:
-#  - course: PhD in Artificial Intelligence
+#  - course: PhD in Artificial Intelligence 
 #    institution: Stanford University
 #    year: 2012
 
@@ -17,12 +17,12 @@ education:
 email: ""
 highlight_name: false
 #interests:
-#  - High-dimensional multivariate statistics
-#  - Matrix perturbation theory
+#- High-dimensional multivariate statistics
+#- Matrix perturbation theory
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Ph.D. 2024
+role: Postdoctoral Researcher
 
 social:
 - icon: envelope
@@ -37,15 +37,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/minwooKim1717
-
+  
 superuser: false
 
-title: 조동혁
+title: 한소율
 
-weight: 2
+weight: 20
 
 user_groups:
-- Alumni
+- Postdoctoral Researchers
 ---
 
-Placement: Samsumg SDS
+제 관심 분야는 딥러닝을 활용한 신호 및 음성 데이터의 이상 탐지에 대한 연구입니다. 현재는 음성 위조를 식별하는 기술과 심장 질환을 예측할 수 있는 방법에 대해 연구하고 있습니다.

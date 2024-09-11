@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Ph.D. student
+role: Ph.D. 2024
 
 social:
 - icon: envelope
@@ -45,7 +45,7 @@ title: 이수진
 weight: 10
 
 user_groups:
-- Ph.D. Students
+- Alumni
 ---
 
-주로 고차원 데이터 분석을 하고 있으며 특히 생물 데이터 분석과 generalized PCA분야 연구를 진행 중에 있습니다. 그 이외에도 머신러닝, 인공지능과 관련된 분야에도 관심이 있으며, 통계학의 실제적 활용에 많은 관심이 있습니다.
+Placement: LG Energy Solution

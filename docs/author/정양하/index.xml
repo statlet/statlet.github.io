@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>정양하 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EC%A0%95%EC%96%91%ED%95%98/</link>
+      <atom:link href="https://statlet.github.io/author/%EC%A0%95%EC%96%91%ED%95%98/index.xml" rel="self" type="application/rss+xml" />
+    <description>정양하</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/author/%EC%A0%95%EC%96%91%ED%95%98/avatar_hu41ae72273e1c9eb23433084f1b6501b7_140682_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>정양하</title>
+      <link>https://statlet.github.io/author/%EC%A0%95%EC%96%91%ED%95%98/</link>
+    </image>
+    
+  </channel>
+</rss>

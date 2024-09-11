@@ -45,7 +45,7 @@ title: 곽승우
 weight: 20
 
 user_groups:
-- Postdoctoral Researchers
+- Alumni
 ---
 
-차등적 정보보호(Differential Privacy)를 통한 자료 배포(data release)와 통계적 자료 분석 방법에 대한 연구를 하고 있습니다.
+Current position: Professor, Sungkonghoe University, Seoul, Korea.

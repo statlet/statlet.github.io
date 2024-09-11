@@ -45,7 +45,7 @@ title: 김기풍
 weight: 20
 
 user_groups:
-- Postdoctoral Researchers
+- Alumni
 ---
 
-Bioinformatics에 적용가능한 high-dimensional statistics에 대해 연구하고 있으며, 주로 variable selection과 low-rank approximation과 같은 주제를 다루고 있습니다.
+Current position: Professor, Changwon National University, Changwon, Korea.
