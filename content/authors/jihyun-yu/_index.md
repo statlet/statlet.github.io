@@ -22,7 +22,7 @@ highlight_name: false
 organizations:
 - name: Department of Statistics, SNU
   url: "https://stat.snu.ac.kr/"
-role: Postdoctoral Researcher
+role: M.S student
 
 social:
 - icon: envelope
@@ -40,12 +40,13 @@ social:
   
 superuser: false
 
-title: 한상일
+title: 유지현
 
-weight: 2
+weight: 10
 
 user_groups:
-- Postdoctoral Researchers
+- Masters Students
 ---
 
-제 관심분야는 다변량 통계입니다. 그중에서도 현재 관심있는 분야는 multisource data integration에서의 통계모델 개발 및 성질연구입니다.
+석사과정에 재학 중인 유지현입니다. High-Dimension, Low-Sample Data로부터의 통계적 추론과 변동을 공부하고 있고, High-Dimensional Clustering, variable selection과 이상점 탐지 등에 관심이 있습니다.
+

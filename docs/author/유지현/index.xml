@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>유지현 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EC%9C%A0%EC%A7%80%ED%98%84/</link>
+      <atom:link href="https://statlet.github.io/author/%EC%9C%A0%EC%A7%80%ED%98%84/index.xml" rel="self" type="application/rss+xml" />
+    <description>유지현</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/author/%EC%9C%A0%EC%A7%80%ED%98%84/avatar_hud2fb14c53f076ed7a8c015ded375c177_287370_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>유지현</title>
+      <link>https://statlet.github.io/author/%EC%9C%A0%EC%A7%80%ED%98%84/</link>
+    </image>
+    
+  </channel>
+</rss>
