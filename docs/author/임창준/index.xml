@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>임창준 | Statistical Learning Theory Lab</title>
+    <link>https://statlet.github.io/author/%EC%9E%84%EC%B0%BD%EC%A4%80/</link>
+      <atom:link href="https://statlet.github.io/author/%EC%9E%84%EC%B0%BD%EC%A4%80/index.xml" rel="self" type="application/rss+xml" />
+    <description>임창준</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© SLT Lab</copyright>
+    <image>
+      <url>https://statlet.github.io/author/%EC%9E%84%EC%B0%BD%EC%A4%80/avatar_hu8b56e7b95679cfb0125590844e83909f_135872_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>임창준</title>
+      <link>https://statlet.github.io/author/%EC%9E%84%EC%B0%BD%EC%A4%80/</link>
+    </image>
+    
+  </channel>
+</rss>
