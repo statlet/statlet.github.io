@@ -23,4 +23,4 @@ menu:
 | **이수진** | Ph.D. 2024 | LG Energy Solution |
 | **조동혁** | Ph.D. 2024 | Samsumg SDS |
 | **한소율** | Postdoctoral Researcher | Professor, Hannam University, Daejeon, Korea. |
-| **한상일** | Ph.D. 2024 | Postdoctoral Researcher at Texas A&M University |
+| **한상일** | Ph.D. 2024 | Postdoctoral Researcher at Transportation Institute, Texas A&M University |
