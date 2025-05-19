@@ -45,7 +45,7 @@ title: 김민우
 weight: 10
 
 user_groups:
-- Ph.D. Students
+- Postdoctoral Researchers
 ---
 
 

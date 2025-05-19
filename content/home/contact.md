@@ -22,7 +22,7 @@ advanced:
 ---
 - **정성규**, sungkyu@snu.ac.kr
 
-- **김용재**, cherrycooky@snu.ac.kr
+- **김규원**, kwkim1224@snu.ac.kr
 
 서울대학교 통계학과 25동 401호
 
