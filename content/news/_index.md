@@ -65,8 +65,7 @@ sections:
         </ol>
         </div>
         <div style="margin-bottom: 10px;"><strong>[2026-03-29]</strong> 통계적 학습이론 연구실 홈페이지를 새롭게 단장했습니다.</div>
-        <div style="margin-bottom: 10px;"><strong>[2026-03-28]</strong> 김용재, 박재성 연구원이 일본 도쿄 메이지대학교에서 개최된 제26회 비모수통계분석 및 베이지안통계 학술대회에서 발표하였습니다. 김용재 연구원은 "An Association Measure for Mixed-type Variables"를, 박재성 연구원은 "Generalized Fréchet Mean with Random Minimizing Domain"을 발표하였습니다.</div>
-        <div style="margin-bottom: 10px;"><strong>[2026-03-26]</strong> 딥러닝을 주제로 한 연구실 세미나가 시작되었습니다.</div>
+        
 
         <h2 style="margin: 0 0 10px 0; font-size: 2rem;">2025</h2>
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 30px; width: 100%;">
@@ -75,6 +74,8 @@ sections:
         </div>
         <div style="margin-bottom: 10px;"><strong>[2025-12-29]</strong> 유지현 학생이 한국통계학회 포스터 논문 3등상을 수상하였습니다.</div>
         </div>
+        <div style="margin-bottom: 10px;"><strong>[2026-03-28]</strong> 김용재, 박재성 연구원이 일본 도쿄 메이지대학교에서 개최된 제26회 비모수통계분석 및 베이지안통계 학술대회에서 발표하였습니다. 김용재 연구원은 "An Association Measure for Mixed-type Variables"를, 박재성 연구원은 "Generalized Fréchet Mean with Random Minimizing Domain"을 발표하였습니다.</div>
+        <div style="margin-bottom: 10px;"><strong>[2026-03-26]</strong> 딥러닝을 주제로 한 연구실 세미나가 시작되었습니다.</div>
         
         </div>
     design:
