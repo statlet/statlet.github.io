@@ -57,6 +57,9 @@ sections:
         <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">김용재</h3>
         <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Postdoctoral Researcher</div>
         <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">서울대학교 통계학과 통계적학습이론 연구실에서 박사후 연구원 과정 중인 김용재입니다. 주요 연구 분야는 혼합형 변수(mixed-type variables)에 대한 비모수적 연관성 측도 개발이며, 다변량 및 조건부 확장에도 관심을 두고 있습니다. 또한 합성 데이터의 프라이버시 측정을 위한 속성 노출 위험(attribution disclosure risk) 측도 연구도 진행하고 있습니다.</p>
+        <div style="margin-top: 15px; font-size: 0.95rem; opacity: 0.8;">
+        Homepage: <a href="https://cherrycooky.github.io" target="_blank" style="text-decoration: none;">https://cherrycooky.github.io</a>
+        </div>
         </div>
         </div>
 
