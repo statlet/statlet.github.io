@@ -14,7 +14,7 @@ sections:
         <div style="line-height: 2; font-size: 1.05rem; margin-bottom: 50px;">
         <div class="workshop-entry">
           <p class="workshop-meta">
-            <strong>[2026-06-17 ~ 2026-06-18]IMS New Researchers Conference Asia 2026</strong>
+            <strong>[2026-06-17 ~ 2026-06-18] IMS New Researchers Conference Asia 2026</strong>
           </p>
           <p class="workshop-location">The University of Hong Kong (HKU)</p>
           
