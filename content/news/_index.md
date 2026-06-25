@@ -14,9 +14,8 @@ sections:
         <div style="line-height: 2; font-size: 1.05rem; margin-bottom: 50px;">
         <div class="workshop-entry">
           <p class="workshop-meta">
-            <strong>[2026-06-17 to 2026-06-18]</strong>
+            <strong>[2026-06-17 ~ 2026-06-18]IMS New Researchers Conference Asia 2026</strong>
           </p>
-          <h3 class="workshop-title">IMS New Researchers Conference Asia 2026</h3>
           <p class="workshop-location">The University of Hong Kong (HKU)</p>
           
           <ol class="talk-list">
@@ -32,9 +31,8 @@ sections:
         </div>
         <div class="workshop-entry">
         <p class="workshop-meta">
-          <strong>[2026-06-13 to 2026-06-16]</strong>
+          <strong>[2026-06-13 ~ 2026-06-16] IMS APRM 2026</strong>
         </p>
-        <h3 class="workshop-title">IMS APRM 2026</h3>
         <p class="workshop-location">The Chinese University of Hong Kong (CUHK)</p>
         
         <ol class="talk-list">
@@ -64,6 +62,7 @@ sections:
           </li>
         </ol>
         </div>
+    
         <div style="margin-bottom: 10px;"><strong>[2026-03-29]</strong> 통계적 학습이론 연구실 홈페이지를 새롭게 단장했습니다.</div>
         
 
