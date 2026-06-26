@@ -78,14 +78,16 @@ sections:
         <h2 style="margin: 0 0 10px 0; font-size: 2rem;">Recent News</h2>
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 30px; width: 100%;">
         <div style="line-height: 2; font-size: 1.05rem;">
-        <div class="event">
-    <strong>Jun 17–18, 2026</strong> · IMS New Researchers Conference Asia — Presentations by 김용재 and 박재성 (<a href="#news">More details</a>)
-</div>
-
-<div class="event">
-    <strong>Jun 13–16, 2026</strong> · IMS APRM — Presentations by 김민우, 이치훈, 김용재, 성기헌, 김규원, and 박재성 (<a href="#news">More details</a>)
-</div>
-        <div style="margin-bottom: 10px;"><strong>[2026-03-28]</strong> 김용재, 박재성 연구원이 일본 도쿄 메이지대학교에서 개최된 제26회 비모수통계분석 및 베이지안통계 학술대회에서 발표하였습니다. 김용재 연구원은 "An Association Measure for Mixed-type Variables"를, 박재성 연구원은 "Generalized Fréchet Mean with Random Minimizing Domain"을 발표하였습니다.</div>
+        <div style="margin-bottom: 10px;">
+          <strong>[2026-06-17 – 2026-06-18]</strong>
+          IMS New Researchers Conference Asia: Presentations by 김용재 and 박재성
+          (<a href="#news">More details in the News section</a>)
+        </div>
+      
+        <div style="margin-bottom: 10px;">
+          <strong>[2026-06-13 – 2026-06-16]</strong>
+          IMS APRM: Presentations by 김민우, 이치훈, 김용재, 성기헌, 김규원, and 박재성
+          (<a href="#news">More details in the News section</a>)
         </div>
         <div style="margin-top: 25px;">
         <a href="/news/" style="text-decoration: none; font-weight: bold;">➔ View all news</a>
