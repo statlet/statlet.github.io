@@ -81,13 +81,13 @@ sections:
         <div style="margin-bottom: 10px;">
           <strong>[2026-06-17 – 2026-06-18]</strong>
           IMS New Researchers Conference Asia: Presentations by 김용재 and 박재성
-          (<a href="https://statlet.snu.ac.kr/news/"> for more</a>)
+          (<a href="https://statlet.snu.ac.kr/news/">more</a>)
         </div>
       
         <div style="margin-bottom: 10px;">
           <strong>[2026-06-13 – 2026-06-16]</strong>
           IMS APRM: Presentations by 김민우, 이치훈, 김용재, 성기헌, 김규원, and 박재성
-          (<a href="https://statlet.snu.ac.kr/news/"> for more</a>)
+          (<a href="https://statlet.snu.ac.kr/news/">more</a>)
         </div>
         <div style="margin-top: 25px;">
         <a href="/news/" style="text-decoration: none; font-weight: bold;">➔ View all news</a>
