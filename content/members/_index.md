@@ -231,6 +231,8 @@ sections:
         | **한소율** | Postdoctoral Researcher | Professor, Hannam University, Daejeon, Korea. |
         | **한상일** | Ph.D. 2024 | Postdoctoral Researcher at Transportation Institute, Texas A&M University |
         | **윤동선** | M.S 2025 | Ph.D. student in Statistics at University of Michigan--Ann Arbor |
+        | **김우열** | M.S 2026 | KoDATA |
+        | **유지현** | M.S 2026 | Samsung Electronics, Inc. |
         
         </div>
     design:
