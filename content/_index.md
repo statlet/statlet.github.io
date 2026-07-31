@@ -81,11 +81,11 @@ sections:
           <strong>[2026-07-03]</strong>
           고정민 학생이 2026년 한국통계학회 하계학술논문발표회에서 "Metric Space Statistical Inference for 3D Skeletal Represented Shape Data via Metric Distribution Function and Distance Profiles"를 주제로 포스터 논문 장려상을 수상하였습니다.
         </div>        
-        <div style="margin-bottom: 10px;">
+        <div style="line-height: 2; font-size: 1.05rem;">
           <strong>[2026-07]</strong>
           김용재 presented "An Association Measure for Mixed-Type Variables" at the 4th Joint Conference on Statistics and Data Science, Guiyang, China.          
         </div>  
-        <div style="margin-bottom: 10px;">
+        <div style="line-height: 2; font-size: 1.05rem;">
           <strong>[2026-06-17 – 2026-06-18]</strong>
           IMS New Researchers Conference Asia: Presentations by 김용재 and 박재성
           (<a href="https://statlet.snu.ac.kr/news/">more</a>)
