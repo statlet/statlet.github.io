@@ -113,8 +113,8 @@ sections:
         <p style="margin: 0; font-size: 1.05rem;">Email: sungkyu@snu.ac.kr</p>
         </div>
         <div>
-        <h3 style="margin: 0 0 5px 0; font-size: 1.25rem; color: #112240;">김규원 <span style="font-size: 1rem; color: #6b7280; font-weight: normal; margin-left: 5px;">| Lab Manager</span></h3>
-        <p style="margin: 0; font-size: 1.05rem;">Email: kwkim1224@snu.ac.kr</p>
+        <h3 style="margin: 0 0 5px 0; font-size: 1.25rem; color: #112240;">성기헌 <span style="font-size: 1rem; color: #6b7280; font-weight: normal; margin-left: 5px;">| Lab Manager</span></h3>
+        <p style="margin: 0; font-size: 1.05rem;">Email: heon1998@snu.ac.kr</p>
         </div>
         </div>
         </div>
