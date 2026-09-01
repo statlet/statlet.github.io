@@ -110,9 +110,9 @@ sections:
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 30px; width: 100%;">
         <div style="line-height: 1.8; font-size: 1.05rem;">
         
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">1. Two R packages for private data analysis are released. The <a href="https://cran.r-project.org/web/packages/dppca/index.html" target="_blank" style="text-decoration: underline;">dppca</a> R package provides tools for differentially private PCA visualizations, written by Yejin and Minwoo.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">1. The <a href="https://cran.r-project.org/web/packages/dppca/index.html" target="_blank" style="text-decoration: underline;">dppca</a> R package provides tools for differentially private PCA visualizations, written by Yejin and Minwoo.</p>
         <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">2. The <a href="https://github.com/SLTLab-SNU/iLBA_package" target="_blank" style="text-decoration: underline;">iLBA</a> R package provides tools for the confidential dissemination of aggregated frequency tables from microdata, written by Jeehyun and Dongsun.</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">3. R package <a href="https://CRAN.R-project.org/package=ClusTorus" target="_blank" style="text-decoration: underline;">"ClusTorus"</a></p>
+         <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">3. The <a href="https://cran.r-project.org/web/packages/ClusTorus/index.html" target="_blank" style="text-decoration: underline;">ClusTorus</a> R package provides tools for mixture model-based clustering of multivariate angular data, written by Seungki Hong.</p>
         <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">4. Recently developed software can be found at <a href="https://github.com/sungkyujung" target="_blank" style="text-decoration: underline;">GitHub repo</a></p>
         <p style="margin-bottom: 0; padding-left: 25px; text-indent: -25px;">5. Old pieces of software can be found at <a href="https://www.stat.pitt.edu/sungkyu/oldSoftwarePage.html" target="_blank" style="text-decoration: underline;">here</a></p>
         
