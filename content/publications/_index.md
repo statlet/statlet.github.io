@@ -10,7 +10,7 @@ sections:
       text: |
         <div style="width: 1000px; max-width: 100%; margin: 0 auto; text-align: left; padding-bottom: 20px; border-bottom: 4px solid currentColor;">
         <h1 style="margin: 0; font-size: 3rem; font-weight: 800; letter-spacing: -1px;">Publications</h1>
-        <p style="margin: 10px 0 0 0; font-size: 1.1rem; opacity: 0.8;">Last updated: September 1, 2026</p>
+        <p style="margin: 10px 0 0 0; font-size: 1.1rem; opacity: 0.8;">Last updated: September 4, 2026</p>
         </div>
     design:
       columns: '1'
