@@ -10,7 +10,7 @@ sections:
       text: |
         <div style="width: 1000px; max-width: 100%; margin: 0 auto; text-align: left; padding-bottom: 20px; border-bottom: 4px solid currentColor;">
         <h1 style="margin: 0; font-size: 3rem; font-weight: 800; letter-spacing: -1px;">Publications</h1>
-        <p style="margin: 10px 0 0 0; font-size: 1.1rem; opacity: 0.8;">Last updated: September 4, 2026</p>
+        <p style="margin: 10px 0 0 0; font-size: 1.1rem; opacity: 0.8;">Last updated: September 1, 2026</p>
         </div>
     design:
       columns: '1'
@@ -86,18 +86,18 @@ sections:
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 30px; width: 100%;">
         <div style="line-height: 1.8; font-size: 1.05rem;">
         
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">1. Kyungjin Shin, Hyunsu Yu, Yongjae Kim, Giheon Seong, Changwon Yoon, Jeongyoun Ahn, Sungkyu Jung, and Cheolwoo Park. “A Comprehensive Analysis of Utility and Disclosure Risk Metrics for Synthetic Data,” manuscript.</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">2. Minwoo Kim, Junyong Park and Sungkyu Jung. “Enhanced Differentially Private Mechanisms via Empirical Bayes,” manuscript.</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">3. Jaesung Park and Sungkyu Jung. “Wasserstein-Quantile PCA,” manuscript in progress.</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">4. Taehyun Kim, Jeongyoun Ahn and Sungkyu Jung. “Optimal Test-Data Piling in HDLSS Classification with Covariance Heterogeneity,” manuscript. (An old version is available at <a href="https://arxiv.org/abs/2211.15562" target="_blank" style="text-decoration: underline;">arXiv</a>.)</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">5. SeoWon Choi and Sungkyu Jung. “Integrative decomposition of multi-source data by identifying partially-joint score subspaces,” manuscript. <a href="https://arxiv.org/abs/2203.14041" target="_blank" style="text-decoration: underline;">(arXiv)</a></p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">6. Minwoo Kim and Sungkyu Jung. “Non-asymptotic error bound for sparse low-rank structured GEP”, manuscript.</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">7. Changwon Yoon, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn. “Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace,” manuscript. <a href="https://arxiv.org/abs/2607.08123" target="_blank" style="text-decoration: underline;">(arXiv)</a></p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">8. Yongjae Kim, Jiwoo Kim and Sungkyu Jung. “A unified framework for measuring attribute disclosure risks in synthetic data,” manuscript.</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">9. Kyoowon Kim and Sungkyu Jung. “Testing and segmentation of joint and individual components in integrative multi-source factor models,” manuscript.</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">10. Jihyun Ryu, Jongmin Lee and Sungkyu Jung. “M-estimation on Riemannian Manifolds: Efficiency, Calibration and Computation,” manuscript.</p>
-        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">11. Yongjae Kim, Haeun Moon and Sungkyu Jung. “An Association Measure for Mixed-Types Variables,” manuscript.</p>
-        <p style="margin-bottom: 0; padding-left: 25px; text-indent: -25px;">12. Chihoon Lee, Sungkyu Jung and Hyokyung G. Hong. “Predicting current outcomes from historical survey data with weighted conformal prediction,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">1. Changwon Yoon, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn. “Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace,” manuscript. <a href="https://arxiv.org/abs/2607.08123" target="_blank" style="text-decoration: underline;">(arXiv)</a></p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">2. Yongjae Kim, Jiwoo Kim and Sungkyu Jung. “A unified framework for measuring attribute disclosure risks in synthetic data,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">3. Kyoowon Kim and Sungkyu Jung. “Testing and segmentation of joint and individual components in integrative multi-source factor models,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">4. Jihyun Ryu, Jongmin Lee and Sungkyu Jung. “M-estimation on Riemannian Manifolds: Efficiency, Calibration and Computation,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">5. Yongjae Kim, Haeun Moon and Sungkyu Jung. “An Association Measure for Mixed-Types Variables,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">6. Chihoon Lee, Sungkyu Jung and Hyokyung G. Hong. “Predicting current outcomes from historical survey data with weighted conformal prediction,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">7. Kyungjin Shin, Hyunsu Yu, Yongjae Kim, Giheon Seong, Changwon Yoon, Jeongyoun Ahn, Sungkyu Jung, and Cheolwoo Park. “A Comprehensive Analysis of Utility and Disclosure Risk Metrics for Synthetic Data,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">8. Minwoo Kim, Junyong Park and Sungkyu Jung. “Enhanced Differentially Private Mechanisms via Empirical Bayes,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">9. Jaesung Park and Sungkyu Jung. “Wasserstein-Quantile PCA,” manuscript in progress.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">10. Taehyun Kim, Jeongyoun Ahn and Sungkyu Jung. “Optimal Test-Data Piling in HDLSS Classification with Covariance Heterogeneity,” manuscript. (An old version is available at <a href="https://arxiv.org/abs/2211.15562" target="_blank" style="text-decoration: underline;">arXiv</a>.)</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">11. SeoWon Choi and Sungkyu Jung. “Integrative decomposition of multi-source data by identifying partially-joint score subspaces,” manuscript. <a href="https://arxiv.org/abs/2203.14041" target="_blank" style="text-decoration: underline;">(arXiv)</a></p>
+        <p style="margin-bottom: 0; padding-left: 25px; text-indent: -25px;">12. Minwoo Kim and Sungkyu Jung. “Non-asymptotic error bound for sparse low-rank structured GEP”, manuscript.</p>
         
         </div>
         </div>
