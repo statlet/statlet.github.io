@@ -91,7 +91,13 @@ sections:
         <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">3. Jaesung Park and Sungkyu Jung. “Wasserstein-Quantile PCA,” manuscript in progress.</p>
         <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">4. Taehyun Kim, Jeongyoun Ahn and Sungkyu Jung. “Optimal Test-Data Piling in HDLSS Classification with Covariance Heterogeneity,” manuscript. (An old version is available at arXiv.)</p>
         <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">5. SeoWon Choi and Sungkyu Jung. “Integrative decomposition of multi-source data by identifying partially-joint score subspaces,” manuscript.</p>
-        <p style="margin-bottom: 0; padding-left: 25px; text-indent: -25px;">6. Minwoo Kim and Sungkyu Jung. “Non-asymptotic error bound for sparse low-rank structured GEP”, manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">6. Minwoo Kim and Sungkyu Jung. “Non-asymptotic error bound for sparse low-rank structured GEP”, manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">7. Changwon Yoon, Minwoo Kim, Sungkyu Jung and Jeongyoun Ahn. “Joint estimation of high-dimensional spiked covariance matrices via a partially shared subspace,” manuscript. <a href="https://arxiv.org/abs/2607.08123" target="_blank" style="text-decoration: underline;">(arXiv)</a></p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">8. Yongjae Kim, Jiwoo Kim and Sungkyu Jung. “A unified framework for measuring attribute disclosure risks in synthetic data,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">9. Kyoowon Kim and Sungkyu Jung. “Testing and segmentation of joint and individual components in integrative multi-source factor models,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">10. Jihyun Ryu, Jongmin Lee and Sungkyu Jung. “M-estimation on Riemannian Manifolds: Efficiency, Calibration and Computation,” manuscript.</p>
+        <p style="margin-bottom: 15px; padding-left: 25px; text-indent: -25px;">11. Yongjae Kim, Haeun Moon and Sungkyu Jung. “An Association Measure for Mixed-Types Variables,” manuscript.</p>
+        <p style="margin-bottom: 0; padding-left: 25px; text-indent: -25px;">12. Chihoon Lee, Sungkyu Jung and Hyokyung G. Hong. “Predicting current outcomes from historical survey data with weighted conformal prediction,” manuscript.</p>
         
         </div>
         </div>
