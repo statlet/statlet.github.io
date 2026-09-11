@@ -95,6 +95,15 @@ sections:
         <div style="width: 1000px; max-width: 100%; margin: 0 auto; text-align: left;">
         <h2 style="margin: 0 0 10px 0; font-size: 2rem;">Students</h2>
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 40px; width: 100%;">
+
+        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
+        <img src="/members/jungmook_kang.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <div style="flex: 1; min-width: 250px;">
+        <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">강정묵</h3>
+        <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Ph.D. Student</div>
+        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">석박사통합과정에 재학 중인 강정묵입니다. 복잡한 인공지능 모델이 어떻게 작동하는지를 통계적 관점에서 이해하는 것에 관심이 있습니다.</p>
+        </div>
+        </div>
         
         <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
         <img src="/members/kyuwon_kim.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -150,6 +159,15 @@ sections:
         </div>
         </div>
 
+        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 20px; gap: 40px;">
+        <img src="/members/yejin_cho.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <div style="flex: 1; min-width: 250px;">
+        <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">조예진</h3>
+        <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Ph.D. Student</div>
+        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">석사과정에 재학 중인 조예진입니다. 고차원 데이터 분석 전반에 흥미를 가지고 있으며, 특히 차원 축소와 PCA에 관심이 많습니다.</p>
+        </div>
+        </div>
+
         <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
         <img src="/members/jihyun_hwang.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="flex: 1; min-width: 250px;">
@@ -158,6 +176,7 @@ sections:
         <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">박사과정에 재학중인 황지현입니다. 제 관심분야는 고차원 자료분석 방법론입니다. 현재는 pca를 이용한 재현자료 생성에 대해 공부하고있습니다.</p>
         </div>
         </div>
+
         
         <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
         <img src="/members/jeongmin_ko.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -168,14 +187,23 @@ sections:
         </div>
         </div>
 
-        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 20px; gap: 40px;">
-        <img src="/members/yejin_cho.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
+        <img src="/members/gyubum_choi.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="flex: 1; min-width: 250px;">
-        <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">조예진</h3>
+        <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">김규범</h3>
         <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Master's Student</div>
-        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">석사과정에 재학 중인 조예진입니다. 고차원 데이터 분석 전반에 흥미를 가지고 있으며, 특히 차원 축소와 PCA에 관심이 많습니다.</p>
+        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">석사과정에 재학중인 최규범입니다. 고차원 데이터와 비유클리드 데이터 분석에 흥미가 있습니다. 특히 기하학적 관점으로 통계적 방법론을 연구하는 데 관심이 있습니다.</p>
         </div>
         </div>
+
+        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
+        <img src="/members/hyeonseung_kim.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <div style="flex: 1; min-width: 250px;">
+        <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">김현승</h3>
+        <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Master's Student</div>
+        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">통계학과 석사과정 김현승입니다. 매니폴드 데이터, 특히 랜드마크를 가지는 형상데이터의 차원축소에 관심이 있습니다.</p>
+        </div>
+        </div>        
         
         </div>
     design:
