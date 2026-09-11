@@ -97,7 +97,7 @@ sections:
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 40px; width: 100%;">
 
         <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
-        <img src="/members/jungmook_kang.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img src="/members/jungmook_kang.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="flex: 1; min-width: 250px;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">강정묵</h3>
         <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Ph.D. Student</div>
@@ -188,7 +188,7 @@ sections:
         </div>
 
         <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
-        <img src="/members/gyubum_choi.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img src="/members/gyubum_choi.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="flex: 1; min-width: 250px;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">김규범</h3>
         <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Master's Student</div>
@@ -197,7 +197,7 @@ sections:
         </div>
 
         <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
-        <img src="/members/hyeonseung_kim.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img src="/members/hyeonseung_kim.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="flex: 1; min-width: 250px;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">김현승</h3>
         <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Master's Student</div>
