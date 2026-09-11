@@ -159,12 +159,12 @@ sections:
         </div>
         </div>
 
-        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 20px; gap: 40px;">
+        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
         <img src="/members/yejin_cho.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="flex: 1; min-width: 250px;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">조예진</h3>
         <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Ph.D. Student</div>
-        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">석사과정에 재학 중인 조예진입니다. 고차원 데이터 분석 전반에 흥미를 가지고 있으며, 특히 차원 축소와 PCA에 관심이 많습니다.</p>
+        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">박사과정에 재학 중인 조예진입니다. 고차원 데이터 분석 전반에 흥미를 가지고 있으며, 특히 차원 축소와 PCA에 관심이 많습니다.</p>
         </div>
         </div>
 
@@ -196,7 +196,7 @@ sections:
         </div>
         </div>
 
-        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
+        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 20px; gap: 40px;">
         <img src="/members/gyubum_choi.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="flex: 1; min-width: 250px;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">최규범</h3>
@@ -251,6 +251,7 @@ sections:
         | **홍승기** | M.S. 2022 | Meritz Fire & Marine Insurance |
         | **김태현** | M.S. 2023 | Ph.D. student in Statistics at Columbia University |
         | **유창조** | M.S. 2023 | LG Electronics |
+        | **임창준** | Postdoctoral Researcher | Postdoctoral Researcher at Brigham Young University |
         | **최서원** | Ph.D. 2023 | 서울대학교 의과대학 의과학대학원 연수연구원 |
         | **곽승우** | Postdoctoral Researcher | Professor, Sungkonghoe University, Seoul, Korea |
         | **김기풍** | Postdoctoral Researcher | Professor, Changwon National University, Changwon, Korea |
