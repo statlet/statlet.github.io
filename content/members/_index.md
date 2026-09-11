@@ -188,22 +188,22 @@ sections:
         </div>
 
         <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
-        <img src="/members/gyubum_choi.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <div style="flex: 1; min-width: 250px;">
-        <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">김규범</h3>
-        <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Master's Student</div>
-        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">석사과정에 재학중인 최규범입니다. 고차원 데이터와 비유클리드 데이터 분석에 흥미가 있습니다. 특히 기하학적 관점으로 통계적 방법론을 연구하는 데 관심이 있습니다.</p>
-        </div>
-        </div>
-
-        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
         <img src="/members/hyeonseung_kim.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <div style="flex: 1; min-width: 250px;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">김현승</h3>
         <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Master's Student</div>
         <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">통계학과 석사과정 김현승입니다. 매니폴드 데이터, 특히 랜드마크를 가지는 형상데이터의 차원축소에 관심이 있습니다.</p>
         </div>
-        </div>        
+        </div>
+
+        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 60px; gap: 40px;">
+        <img src="/members/gyubum_choi.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <div style="flex: 1; min-width: 250px;">
+        <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">최규범</h3>
+        <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Master's Student</div>
+        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">석사과정에 재학중인 최규범입니다. 고차원 데이터와 비유클리드 데이터 분석에 흥미가 있습니다. 특히 기하학적 관점으로 통계적 방법론을 연구하는 데 관심이 있습니다.</p>
+        </div>
+        </div>
         
         </div>
     design:
