@@ -77,6 +77,8 @@ sections:
         <div id="news-section" style="width: 1000px; max-width: 100%; margin: 0 auto; text-align: left;">
         <h2 style="margin: 0 0 10px 0; font-size: 2rem;">Recent News</h2>
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 30px; width: 100%;">
+        <div style="margin-bottom: 10px;"><strong>[2026-10-08]</strong> 구성원들이 진행 중인 연구를 공유하는 연구 교류 세미나가 시작되었습니다.</div>
+        <div style="margin-bottom: 10px;"><strong>[2026-10-01]</strong> 매주 목요일 논문을 함께 읽고 토론하는 저널 클럽이 시작되었습니다.</div>
         <div style="line-height: 2; font-size: 1.05rem;">
           <strong>[2026-07-03]</strong>
           고정민 학생이 2026년 한국통계학회 하계학술논문발표회에서 "Metric Space Statistical Inference for 3D Skeletal Represented Shape Data via Metric Distribution Function and Distance Profiles"를 주제로 포스터 논문 장려상을 수상하였습니다.
@@ -85,14 +87,6 @@ sections:
           <strong>[2026-07]</strong>
           김용재 presented "An Association Measure for Mixed-Type Variables" at the 4th Joint Conference on Statistics and Data Science, Guiyang, China.          
         </div>  
-        <div style="line-height: 2; font-size: 1.05rem;">
-          <strong>[2026-06-17 – 2026-06-18]</strong>
-          IMS New Researchers Conference Asia: Presentations by 김용재 and 박재성
-          (<a href="https://statlet.snu.ac.kr/news/">more</a>)
-        </div>
-        <div style="margin-top: 25px;">
-        <a href="/news/" style="text-decoration: none; font-weight: bold;">➔ View all news</a>
-        </div>
         </div>
     design:
       columns: '1'
