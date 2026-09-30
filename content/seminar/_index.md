@@ -3,27 +3,21 @@ title: Seminar
 type: landing
 
 sections:
-  # 1. 페이지 메인 타이틀
-  - block: markdown
+    # 1. 페이지 메인 타이틀
+  - block: page-header
     content:
-      title: ''
-      text: |
-        <div style="width: 1000px; max-width: 100%; margin: 0 auto; text-align: left; padding-bottom: 20px; border-bottom: 4px solid currentColor;">
-        <h1 style="margin: 0; font-size: 3rem; font-weight: 800; letter-spacing: -1px;">Seminar</h1>
-        <p style="margin: 10px 0 0 0; font-size: 1.1rem; opacity: 0.8;">Last updated: September 30, 2026</p>
-        </div>
+      title: Seminar
     design:
-      columns: '1'
       spacing:
         padding: ['80px', '5%', '30px', '5%']
 
-  # 2. 2026 2학기 Journal Review Club
+    # 2. 2026 2학기 Journal Review Club
   - block: markdown
     content:
       title: ''
       text: |
         <div style="width: 1000px; max-width: 100%; margin: 0 auto; text-align: left;">
-        <h2 style="margin: 0 0 10px 0; font-size: 2rem;">2026 2학기 Journal Review Club</h2>
+        <h2 style="margin: 0 0 10px 0; font-size: 1.5rem; font-weight: 400;">2026 2학기 Journal Review Club</h2>
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 20px; width: 100%;">
         <ul style="font-size: 1.05rem; line-height: 2;">
         <li><a href="https://doi.org/10.1093/biomet/asag044">Identify the source of spikes: factor or mixture?</a></li>
