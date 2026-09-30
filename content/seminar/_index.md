@@ -17,7 +17,7 @@ sections:
       title: ''
       text: |
         <div style="width: 1000px; max-width: 100%; margin: 0 auto; text-align: left;">
-        <h2 style="margin: 0 0 10px 0; font-size: 1.5rem; font-weight: 400;">2026 Journal Review</h2>
+        <h2 style="margin: 0 0 10px 0; font-size: 2rem;">2026 Journal Review</h2>
         <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 20px; width: 100%;">
         <ul style="font-size: 1.05rem; line-height: 1.6;">
         <li style="margin-bottom: 12px;">Identify the source of spikes: factor or mixture?<br><span style="font-size: 0.9rem; opacity: 0.7;">Lin, Liu, Pan, Yao & Zhou · <i>Biometrika</i> (2026)</span></li>
