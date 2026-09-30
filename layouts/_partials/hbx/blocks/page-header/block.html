@@ -1,0 +1,11 @@
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $title := $page.Title }}
+{{ with $block.content }}{{ with .title }}{{ $title = . }}{{ end }}{{ end }}
+
+<div style="width: 1000px; max-width: 100%; margin: 0 auto; text-align: left; padding-bottom: 20px; border-bottom: 4px solid currentColor;">
+  <h1 style="margin: 0; font-size: 3rem; font-weight: 800; letter-spacing: -1px;">{{ $title }}</h1>
+  {{ with $page.Lastmod }}{{ if not .IsZero }}
+  <p style="margin: 10px 0 0 0; font-size: 1.1rem; opacity: 0.8;">Last updated: {{ .Format "January 2, 2006" }}</p>
+  {{ end }}{{ end }}
+</div>
