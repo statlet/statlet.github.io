@@ -11,7 +11,7 @@ sections:
       spacing:
         padding: ['80px', '5%', '30px', '5%']
 
-    # 2. 2026 2학기 Journal Review Club
+    # 2. 2026 Journal Review Club
   - block: markdown
     content:
       title: ''
