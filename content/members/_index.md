@@ -71,15 +71,6 @@ sections:
         <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">서울대학교 수학과를 졸업하고(15학번 입학), 통계학과 석박사 통합과정(19학번 입학) 졸업 후 박사후 연구원 과정 중인 박재성입니다. 제가 하고 있는 연구는 일차원에서의 random density들의 PCA에 관한 연구입니다. density function대신 quantile function을 이용하면 convex 제약이 있는 $L^2$-space에서의 PCA를 하는 것과 같게 되는데, 이런 제약이 있는 PCA의 이론적인 성질과 기존에 있던 알고리즘에 비해서 유용한 알고리즘을 만드는것이 제 관심사입니다.</p>
         </div>
         </div>
-
-        <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 20px; gap: 40px;">
-        <img src="/members/changjun_lim.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <div style="flex: 1; min-width: 250px;">
-        <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">임창준</h3>
-        <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Postdoctoral Researcher</div>
-        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">서울대학교 과학데이터혁신연구소의 박사후연구원인 임창준입니다. 2025년 2월 서울대학교 통계학과에서 박병욱 교수님의 지도 하에 박사학위를 취득했습니다. 주요 연구 분야는 비유클리드 공간에서의 데이터 분석을 위한 비모수 프레셰 회귀모형입니다. 이 연구는 복잡한 형태의 데이터를 효과적으로 분석하는 새로운 통계적 방법을 개발하는 데 중점을 두고 있습니다.</p>
-        </div>
-        </div>
         
         </div>
     design:
@@ -128,7 +119,7 @@ sections:
         <div style="flex: 1; min-width: 250px;">
         <h3 style="margin: 0 0 5px 0; font-size: 1.3rem;">성기헌</h3>
         <div style="font-size: 1.1rem; font-weight: 600; margin-bottom: 10px; opacity: 0.8;">Ph.D. Student</div>
-        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">박사과정 재학 중인 성기헌 입니다. 현재는 적절한 가정 하에서, 고차원 데이터에 PCA를 적용하였을 때 생기는 bias와 이를 보정할 수 있는 방법론을 공부하고 있습니다. 이후에도 고차원 데이터 분석 방법론을 연구하고 싶습니다.</p>
+        <p style="margin: 0; font-size: 1.05rem; line-height: 1.7;">박사과정에 재학 중인 성기헌입니다. 현재 Random matrix theory를 활용하여 고차원 데이터의 PCA에서 고유벡터에 대한 외부 정보를 최적으로 결합하는 방법을 연구하고 있습니다. 향후에는 비선형 차원축소 방법론으로 연구 범위를 확장하고자 합니다.</p>
         </div>
         </div>
 
