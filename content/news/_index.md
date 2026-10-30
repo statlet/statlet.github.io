@@ -11,6 +11,7 @@ sections:
           <h2 style="margin: 0 0 10px 0; font-size: 2rem;">2026</h2>
           <hr style="border: 0; border-bottom: 2px solid #e5e7eb; margin-bottom: 30px; width: 100%;">
           <div style="line-height: 2; font-size: 1.05rem; margin-bottom: 50px;">
+            <div style="margin-bottom: 10px;"><strong>[2026-10-21 ~ 2026-10-23]</strong> International Symposium on New Developments of Theories, Methodologies and Applications for Large Complex Data 2026에서 김규원 학생이 \"Testing and segmentation of joint and individual components in integrative multi-source factor models\"를, 성기헌 학생이 \"Augmented James-Stein estimation for leading eigenvectors and eigenspaces in high dimensions\"를 발표하였습니다.</div>\n <div style=\"margin-bottom: 10px;\">
             <div style="margin-bottom: 10px;"><strong>[2026-10-08]</strong> 구성원들이 진행 중인 연구를 공유하는 연구 교류 세미나가 시작되었습니다.</div>
             <div style="margin-bottom: 10px;"><strong>[2026-10-01]</strong> 논문을 함께 읽고 토론하는 저널 클럽이 시작되었습니다.</div>
             <div style="margin-bottom: 10px;"><strong>[2026-07-03]</strong> 고정민 학생이 2026년 한국통계학회 하계학술논문발표회에서 "Metric Space Statistical Inference for 3D Skeletal Represented Shape Data via Metric Distribution Function and Distance Profiles"를 주제로 포스터 논문 장려상을 수상하였습니다.</div>
